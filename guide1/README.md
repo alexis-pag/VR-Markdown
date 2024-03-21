@@ -233,6 +233,8 @@ En résumé, ce code utilise A-Frame pour créer une expérience VR/AR avec des 
 Dans un deuxieme temps on va animer notre fleche qui vas aller du haut vers le bas pour mieux indiquer ou va aller l'utilisateur Pour realiser cela on va utiliser un composant du nom de animation on vas lui indiquer le type d'animation  mais aussi inserer des texte pour mieux guider l'utilisateur dans son parcours.Pour cela on rajoute un composant qui pour le texte et  
 # [Partie 4 - Implémentation d'une vidéo](https://maximer37.github.io/VR-Markdown/guide1/partie4/index.html)
 
+Pour tout demarage de fichier video ou de fichier audio il faut obligatoirement une interaction qui permet de demmarer c'est dernier. tout cela est la causse de soucis deconomie de bande passance 
+
 <!-- 
 ````
 <a-entity id="printer" scene-changer="" obj-model="obj: ./resources/fleche.obj" position="-28.26659 0.24929 -16.91649" class="raycastable" rotation="-90 0 0" 
