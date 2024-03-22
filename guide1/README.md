@@ -170,62 +170,9 @@ En résumé, ce code crée une scène de réalité virtuelle avec un ciel textur
 # [Partie 2 - Navigation entre deux panorama 360](https://maximer37.github.io/VR-Markdown/guide1/partie2/index.html)
 Dans un premier temps j'ai ajouter un template dans mon code qui va me permettre de gagner du temps sur la création de fonction, on va aussi crée une page javascript du nom de index.js qui va me permetre d'utiliser des variable et des fonction propre a javascript, on va crée deux page html que l'on va ranger dans un dossier spécifique dans l'arboraissance ./partie2/Pages-Index/default.html et dans le dossier ./partie2/Pages-Index/1.html. Dans c'est index on peut y trouver les du code pour inserer un object qui est notre fleche, qui permet de naviger d'un panorama a l'autre. 
 
+## Changer la couleur d'un object
 
-
-<!-- 
-Je vais vous expliquer ce code ligne par ligne :
-
-
-### var PageLoc = "./Pages" :
-C ette variable contient le chemin relatif vers le dossier où se trouvent vos pages HTML. Dans cet exemple, le dossier est nommé “Pages”.
-
-### Variables pour A-Frame :
-
-var SceneData = $("a-scene") : Cette ligne sélectionne l’élément HTML avec la balise <a-scene> (qui est probablement la scène principale de 
-votre expérience A-Frame).
-
-var scene = SceneData[0] : La variable scene contient cet élément.
-
-var MainScene = $("#MainScene")[0] : La variable MainScene contient l’élément avec l’ID “MainScene”.
-
-
-### let PathName = location.pathname.split("/") :
-
-Cette ligne récupère le chemin de l’URL actuelle et le divise en segments en utilisant le caractère “/”. Le résultat est stocké dans la 
-variable PathName.
-
-
-Ensuite, le nom du document (fichier HTML) est extrait de ce chemin. Si aucun nom de document n’est trouvé, il est défini par défaut comme “index” et converti en majuscules.
-
-
-### Fonction sleep(ms) :
-
-Cette fonction attend pendant un certain nombre de millisecondes avant de continuer l’exécution du code. Elle utilise une promesse pour gérer l’attente.
-
-### Fonction UpdateNavigator() :
-
-Cette fonction supprime le “cache” de la caméra (probablement pour réinitialiser son état). Elle attend 100 millisecondes avant d’émettre un événement “end_trans”.
-
-### Interaction pour la fonction UpdateNavigator :
-
-Lorsque le template est chargé (rendu), l’événement templaterendered est détecté sur l’élément MainScene, ce qui appelle la fonction UpdateNavigator.
-
-### Fonction SwitchArea(Name) :
-Cette fonction change la scène (probablement le contenu affiché) en fonction du nom donné.
-Elle supprime tous les éléments de classe “field”.
-Elle émet un événement “start_trans” pour démarrer une transition.
-Enfin, elle met à jour le template de la scène principale avec le nom de la nouvelle page.
-
-### Initialisation de la scène :
-Le composant scene-init initialise la scène avec un nom donné (probablement pour afficher une page spécifique au démarrage).
-
-
-### Composant scene-changer :
-Ce composant est attaché à un bouton (ou un autre élément) et permet de changer la scène lorsque l’utilisateur clique dessus.
-
-
-En résumé, ce code utilise A-Frame pour créer une expérience VR/AR avec des transitions entre différentes pages (ou scènes). Les templates (ou modèles) sont probablement utilisés pour définir la structure et le style de ces pages. -->
-
+Pour commencer il faut activer l'inspecteur `ctrl`
 
 ![*Deuxième panorama*](<partie2/resources/image/panorama2.jpg>)
 
@@ -241,4 +188,4 @@ Pour tout demarage de fichier video ou de fichier audio il faut obligatoirement 
 
 
 animation="property: position; dir: alternate; to: -28.2 -.4 -16.9; loop: true; dur: 1000"></a-entity>
-```` -->
+````-->
