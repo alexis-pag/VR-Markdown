@@ -190,8 +190,7 @@ A votre droite un menu c'est ouvert a fin de modifier la fleche, on va selection
 
 ensuite on peut cliquer sur ***Material*** une ligne avec idiquer ***color*** va nous permetre de changer la couleur, on clique sur le carré blanc et a l'aide du curseur on va selectionner la couleur que l'on veut.
 
-![*changer la couleur*](<partie2/resources/image/imagegenerique/color.png>)
-
+<img src="partie2/resources/image/imagegenerique/color.png" alt="changement de couleur" height="auto" width="250">
 Enfin on peut copier extraire les modification pour les transformer en code a implementer dedans 
 
 ![*copier code*](<partie2/resources/image/imagegenerique/copiecode.png>)
