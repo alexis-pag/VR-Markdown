@@ -223,6 +223,7 @@ AFRAME.registerComponent('lamo', {
     },
 ````
 ainsi que ce code si :
+
 ````html
 <!-- Composant qui permet d'afficher le texte que l'on nom "lamo" et qui fonction avec l'index.js -->
 <a-entity lamo="angle: -55; Y: 6" text="value: Batiment 1; align: center; width: 20; color: #ffea00" position="6.12836 4.15871 -5.1423" material="color: #00ff11" visible=""></a-entity>
