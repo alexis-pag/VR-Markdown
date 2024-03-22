@@ -209,17 +209,21 @@ Dans un deuxieme temps on va animer notre fleche qui vas aller du haut vers le b
 Pour cela on rajoute un composant pour le texte qui va fonctionner avec une frise qui est au nveau du sol dans le but que le texte  regarde toujours vers l'utilisateur qui se base sur un morceau de code en javascript 
 
 ````js
+// crée un composant du nom  de "lamo"
 AFRAME.registerComponent('lamo', {
+  // on enregistre les parametere du composant
     schema: {
+      // C'est les parametre nommé avec un type et une valeur avant
       angle: {type: 'int', default: 0},
       Y: {type: 'int', default: 1}
     },
-  
+      // "int" c'est la fonction executer quand le composant est attacher a un objet  
     init: async function() {
       this.update = this.update.bind(this)
     },
 ````
-ensuite on peut modifier certain parametre dans le mode inspecteur qui vont nous permettre de modifier la couleur du texte, centrer le texte...
+
+ensuite on peut modifier certain parametre dans le mode inspecteur qui vont nous permettre de modifier la couleur du texte, centrer le texte... 
 
 
 <img src="partie3/resources/image/imagegenerique/texte.png" alt="inspecteurtext" height="auto" width="850">
