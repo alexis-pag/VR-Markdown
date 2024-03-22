@@ -177,14 +177,14 @@ Pour commencer il faut activer l'inspecteur avec la combinaisson de touche  `ctr
 ![*présentation inspecteur*](<partie2/resources/image/imagegenerique/presentationinspecteur.png>)
 A votre gauche on y trouve les element qui compose la page (le panorama,la camera...)
 
-On va selectionner a gauche l'element **MainScene** puis dans la partie dérouler on selectionne l'entiter **fleche** 
+On va selectionner a gauche l'element ***MainScene*** puis dans la partie dérouler on selectionne l'entiter ***fleche*** 
 
 ![*selection*](<partie2/resources/image/imagegenerique/selection.png>)
 
 Puis maintenant notre fleche est selectionner on peut alors acceder au menu de modification des different element ici ce qui nou0s 
 interesse c'est la couleur
 
-A votre droite un menu c'est ouvert a fin de modifier la fleche, on va selection le menu deroulant **Add composant** on chercher **Material**
+A votre droite un menu c'est ouvert a fin de modifier la fleche, on va selection le menu deroulant ***Add composant*** on chercher ***Material***
 
 ![*ajout composant*](<partie2/resources/image/imagegenerique/ajoutcomposant.png>)
 
