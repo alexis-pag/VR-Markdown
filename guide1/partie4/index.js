@@ -50,20 +50,35 @@ AFRAME.registerComponent('scene-init', {
 
 // Button qui change la scene a la valeur prédéfinie
 AFRAME.registerComponent('scene-changer', {
-    schema: {type: 'string', default: 'default'},
-  
-    init: async function() {
-      this.onClick = this.onClick.bind(this)
-      this.SceneName = this.data
+  schema: {type: 'string', default: 'default'},
 
-      // Active l'evenement si un click est détecter
-      this.el.addEventListener("click", this.onClick)
-    },
-  
-    onClick: async function() {
-      SwitchArea(this.SceneName)
-    }
-  })
+  init: async function() {
+    this.onClick = this.onClick.bind(this)
+    this.SceneName = this.data
+
+    // Active l'evenement si un click est détecter
+    this.el.addEventListener("click", this.onClick)
+  },
+
+  onClick: async function() {
+    SwitchArea(this.SceneName)
+  }
+})
+
+var ok = false
+AFRAME.registerComponent('hide', {
+  init: async function() {
+    if(ok) this.el.setAttribute('visible', false);
+    this.onClick = this.onClick.bind(this)
+
+    // Active l'evenement si un click est détecter
+    this.el.addEventListener("click", this.onClick)
+  },
+  onClick: async function() {
+    ok = true
+    this.el.setAttribute('visible', false)
+  }
+})
 
   AFRAME.registerComponent('lamo', {
     schema: {
