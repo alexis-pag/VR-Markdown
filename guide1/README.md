@@ -222,7 +222,13 @@ AFRAME.registerComponent('lamo', {
       this.update = this.update.bind(this)
     },
 ````
-
+ainsi que ce code si :
+````html
+<!-- Composant qui permet d'afficher le texte que l'on nom "lamo" et qui fonction avec l'index.js -->
+<a-entity lamo="angle: -55; Y: 6" text="value: Batiment 1; align: center; width: 20; color: #ffea00" position="6.12836 4.15871 -5.1423" material="color: #00ff11" visible=""></a-entity>
+<a-entity lamo="angle: 160; Y: 5" text="value: Stade; align: center; width: 20; color: #f50000" position="-8.90811 2.01835 4.38159" rotation="0 127.00000000000001 0"></a-entity>
+<a-entity lamo="angle: 123; Y: -1" text="value: Statue; align: center; width: 20; color: #0394FB" position="-8.90811 2.01835 4.38159" rotation="0 127.00000000000001 0"></a-entity>
+````
 ensuite on peut modifier certain parametre dans le mode inspecteur qui vont nous permettre de modifier la couleur du texte, centrer le texte... 
 
 
