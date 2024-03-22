@@ -172,7 +172,7 @@ Dans un premier temps j'ai ajouter un template dans mon code qui va me permettre
 
 ## Changer la couleur d'un object
 
-Pour commencer il faut activer l'inspecteur `ctrl`
+Pour commencer il faut activer l'inspecteur `ctrl` +`Alt`+`I`
 
 ![*Deuxième panorama*](<partie2/resources/image/panorama2.jpg>)
 
