@@ -55,7 +55,7 @@ En exterieur, des outils comme google earth sont particulièrement utiles.
 L'importation des images est le moment ideal pour mofier la résolution  modifier la resolution de l'image de 2880 pixel par 1440 pixel avec le logiciel de la caméra puis j'ai flouté le visage pour par la suite les importer 
 
 on va utiliser le code suivant pour importer l'image 360 sur le navigateur:
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -208,7 +208,7 @@ on recherche la ligne du code qui fais reference a la ***fleche*** et on peut co
 Dans un deuxieme temps on va animer notre fleche qui vas aller du haut vers le bas pour mieux indiquer ou va aller l'utilisateur .Pour realiser cela on va utiliser un composant du nom de animation on vas lui indiquer le type d'animation  mais aussi inserer des texte pour mieux guider l'utilisateur dans son parcours.
 Pour cela on rajoute un composant pour le texte qui va fonctionner avec une frise qui est au nveau du sol dans le but que le texte  regarde toujours vers l'utilisateur qui se base sur un morceau de code en javascript 
 
-````
+````js
 AFRAME.registerComponent('lamo', {
     schema: {
       angle: {type: 'int', default: 0},
