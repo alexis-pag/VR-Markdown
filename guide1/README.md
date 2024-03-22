@@ -181,16 +181,24 @@ On va selectionner a gauche l'element ***MainScene*** puis dans la partie dérou
 
 ![*selection*](<partie2/resources/image/imagegenerique/selection.png>)
 
-Puis maintenant notre fleche est selectionner on peut alors acceder au menu de modification des different element ici ce qui nou0s 
+Puis maintenant notre fleche est selectionner on peut alors acceder au menu de modification des different element ici ce qui nous 
 interesse c'est la couleur
 
 A votre droite un menu c'est ouvert a fin de modifier la fleche, on va selection le menu deroulant ***Add composant*** on chercher ***Material***
 
 ![*ajout composant*](<partie2/resources/image/imagegenerique/ajoutcomposant.png>)
 
-enfin on peut cliquer sur ***Material*** une ligne avec idiquer ***color*** va nous permetre de changer la couleur, on clique sur le carré blanc et a l'aide du curseur on va selectionner la couleur que l'on veut.
+ensuite on peut cliquer sur ***Material*** une ligne avec idiquer ***color*** va nous permetre de changer la couleur, on clique sur le carré blanc et a l'aide du curseur on va selectionner la couleur que l'on veut.
 
 ![*changer la couleur*](<partie2/resources/image/imagegenerique/color.png>)
+
+Enfin on peut copier extraire les modification pour les transformer en code a implementer dedans 
+
+![*copier code*](<partie2/resources/image/imagegenerique/copiecode.png>)
+
+on recherche la ligne du code qui fais reference a la ***fleche***
+
+![*selectioncode*](<partie2/resources/image/imagegenerique/selectioncode.png>)
 
 # [Partie 3 - Animer un objet et inserer un texte](https://maximer37.github.io/VR-Markdown/guide1/partie3/index.html)
 Dans un deuxieme temps on va animer notre fleche qui vas aller du haut vers le bas pour mieux indiquer ou va aller l'utilisateur Pour realiser cela on va utiliser un composant du nom de animation on vas lui indiquer le type d'animation  mais aussi inserer des texte pour mieux guider l'utilisateur dans son parcours.Pour cela on rajoute un composant qui pour le texte et  
