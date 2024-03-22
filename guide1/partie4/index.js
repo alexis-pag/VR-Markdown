@@ -47,7 +47,6 @@ AFRAME.registerComponent('scene-init', {
       SwitchArea(this.SceneName)
     }
   })  
-
 // Button qui change la scene a la valeur prédéfinie
 AFRAME.registerComponent('scene-changer', {
   schema: {type: 'string', default: 'default'},
@@ -64,7 +63,7 @@ AFRAME.registerComponent('scene-changer', {
     SwitchArea(this.SceneName)
   }
 })
-
+//variable qui permet d'afficher un panneau uniquement au demarage du site
 var ok = false
 AFRAME.registerComponent('hide', {
   init: async function() {
@@ -79,7 +78,7 @@ AFRAME.registerComponent('hide', {
     this.el.setAttribute('visible', false)
   }
 })
-
+//la fonction qui permet avoir le texte de maniere perpendiculaire 
   AFRAME.registerComponent('lamo', {
     schema: {
       angle: {type: 'int', default: 0},
