@@ -186,7 +186,7 @@ interesse c'est la couleur
 
 A votre droite un menu c'est ouvert a fin de modifier la fleche, on va selection le menu deroulant ***Add composant*** on chercher ***Material***
 
-<img src="partie2/resources/image/imagegenerique/ajoutcomposant.png" alt="ajout composant" height="auto" width="150">
+<img src="partie2/resources/image/imagegenerique/ajoutcomposant.png" alt="ajout composant" height="auto" width="200">
 
 ensuite on peut cliquer sur ***Material*** une ligne avec idiquer ***color*** va nous permetre de changer la couleur, on clique sur le carré blanc et a l'aide du curseur on va selectionner la couleur que l'on veut.
 
