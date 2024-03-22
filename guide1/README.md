@@ -175,13 +175,9 @@ Dans un premier temps j'ai ajouter un template dans mon code qui va me permettre
 Pour commencer il faut activer l'inspecteur avec la combinaisson de touche  `ctrl` + `Alt` + `I` 
 
 ![*présentation inspecteur*](<partie2/resources/image/imagegenerique/presentationinspecteur.png>)
-A votre droit on y trouve les element 
+A votre droit on y trouve les element qui compose la page (le panorama,la camera...)
 
-qui compose la page (le panorama,la camera...)
-
-On va selectionner a droit l'element **MainScene** 
-
-puis dans la partie dérouler on selectionne l'entiter **fleche** 
+On va selectionner a droit l'element **MainScene** puis dans la partie dérouler on selectionne l'entiter **fleche** 
 
 ![*selection*](<partie2/resources/image/imagegenerique/selection.png>)
 
