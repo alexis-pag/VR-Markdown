@@ -186,8 +186,7 @@ interesse c'est la couleur
 
 A votre droite un menu c'est ouvert a fin de modifier la fleche, on va selection le menu deroulant ***Add composant*** on chercher ***Material***
 
-<img src="partie2/resources/image/imagegenerique/ajoutcomposant.png" alt="ajout composant" height="50%" width="50%">
-
+<img src="partie2/resources/image/imagegenerique/ajoutcomposant.png" alt="ajout composant" height="auto" width="50">
 
 ensuite on peut cliquer sur ***Material*** une ligne avec idiquer ***color*** va nous permetre de changer la couleur, on clique sur le carré blanc et a l'aide du curseur on va selectionner la couleur que l'on veut.
 
@@ -197,7 +196,7 @@ Enfin on peut copier extraire les modification pour les transformer en code a im
 
 ![*copier code*](<partie2/resources/image/imagegenerique/copiecode.png>)
 
-on recherche la ligne du code qui fais reference a la ***fleche*** et on peut coller le nouveau code. 
+on recherche la ligne du code qui fais reference a la ***fleche*** et on peut coller le nouveau code 
 
 ![*selectioncode*](<partie2/resources/image/imagegenerique/selectioncode.png>)
 
