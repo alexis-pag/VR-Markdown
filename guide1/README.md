@@ -220,6 +220,7 @@ AFRAME.registerComponent('lamo', {
     },
 ````
 ensuite on peut modifier certain parametre dans le mode inspecteur qui vont nous permettre de modifier la couleur du texte, centrer le texte...
+<img src="partie3/resources/image/imagegenerique/texte.png" alt="inspecteurtext" height="auto" width="850">
 
 
 # [Partie 4 - Implémentation d'une vidéo](https://maximer37.github.io/VR-Markdown/guide1/partie4/index.html)
