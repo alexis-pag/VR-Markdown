@@ -196,7 +196,7 @@ Enfin on peut copier extraire les modification pour les transformer en code a im
 
 ![*copier code*](<partie2/resources/image/imagegenerique/copiecode.png>)
 
-on recherche la ligne du code qui fais reference a la ***fleche***
+on recherche la ligne du code qui fais reference a la ***fleche*** et on peut coller le nouveau code. 
 
 ![*selectioncode*](<partie2/resources/image/imagegenerique/selectioncode.png>)
 
