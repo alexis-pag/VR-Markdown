@@ -179,7 +179,7 @@ A votre gauche on y trouve les element qui compose la page (le panorama,la camer
 
 On va selectionner a gauche l'element ***MainScene*** puis dans la partie dérouler on selectionne l'entiter ***fleche*** 
 
-![*selection*](<partie2/resources/image/imagegenerique/selection.png>)
+<img src="partie2/resources/image/imagegenerique/selection.png" alt="selection" height="auto" width="850">
 
 Puis maintenant notre fleche est selectionner on peut alors acceder au menu de modification des different element ici ce qui nous 
 interesse c'est la couleur
