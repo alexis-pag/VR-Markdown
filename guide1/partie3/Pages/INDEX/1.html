@@ -2,10 +2,20 @@
 <a-sky src="./resources/image/panorama2.jpg"></a-sky>
 
 <!-- Modèle 3D, utilise le composant scene-changer pour changer la scène -->
-<a-entity id="fleche" scene-changer="" obj-model="obj: ./resources/fleche.obj" position="-28.26659 0.24929 -16.91649" class="raycastable" rotation="-90 0 0" animation="property: position; dir: alternate; to: -28.2 -.4 -16.9; loop: true; dur: 1000" material="color: #00ff11"></a-entity>
+<a-entity id="fleche" scene-changer="" obj-model="obj: ./resources/fleche.obj" position="-28.26659 0.24929 -16.91649" class="raycastable" rotation="-90 0 0" 
+    animation="property: position; dir: alternate; to: -28.2 -.4 -16.9; loop: true; dur: 1000" material="color: #00ff11">
+</a-entity>
 
 <!-- implémentaion d'une frise sur le panorama pour faciliter le positionnement du texte -->
 <a-ring id="navigation" position="0 -1.5 0" wireframe="true" opacity="0.25" color="red" radius-inner="1" radius-outer="2" rotation="-90 0 0"> </a-ring>
 
 <!-- Composant qui permet d'afficher le texte que l'on nom "lamo" et qui fonction avec l'index.js -->
-<a-entity lamo="angle: 37.5; Y: 3.5" text="value: Cantine; align: center; width: 20; color: #FB6B03" position="2.07073 1.85799 -7.64446"></a-entity>
+<a-entity lamo="angle: 33; Y: 1" text="value: Direction cantine; align: center; width: 20; color: #fcaa1d" position="6.389084080378343 1.5 4.814520185216386" 
+    visible=""
+    animation="property: scale; to: 1.5 1.5; dir: alternate; loop: true">
+
+</a-entity>
+
+<a-entity id="fleche" obj-model="obj: ./resources/fleche.obj" position="2.90123 -2 1.70946" rotation="0.01 -121.31000000000002 0" 
+    animation="property: position; dir: alternate; loop: true" material="color: #00fbff" scale="0.46 0.13 0.61">
+</a-entity>
