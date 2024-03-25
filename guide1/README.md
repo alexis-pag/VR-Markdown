@@ -262,7 +262,8 @@ ainsi que ce code si :
 
 ````html
 <!-- Composant qui permet d'afficher le texte que l'on nom "tang" et qui fonction avec l'index.js -->
-<a-entity id=Batiment1 tang="angle: -55; Y: 6" text="value: Batiment 1; align: center; width: 20; color: #ffea00" position="6.12836 4.15871 -5.1423">
+<a-entity id=Batiment1 tang="angle: -55; Y: 6" text="value: Batiment 1; align: center; width: 20; color: #ffea00"             
+    position="612836 4.15871 -5.1423">
 </a-entity>
 
 <a-entity id=Stade tang="angle: 175; Y: 1" text="value: Stade; align: center; width: 20; color: #f50000" position="-8.90811 2.01835 4.38159" 
@@ -275,8 +276,8 @@ ainsi que ce code si :
 
 <a-entity id=Statue tang="angle: 123; Y: -1" text="value: STATUE; align: center; width: 20; color: #0089eb" position="-4.357112280120217 -2.5 6.7093645435633915" 
     rotation="-7.1250163489017995 147 0" 
-    animation__1="property: scale; to: 0.95 0.95 0.95; dir: alternate; loop: true"
-></a-entity>
+    animation__1="property: scale; to: 0.95 0.95 0.95; dir: alternate; loop: true">
+</a-entity>
 ````
 avec ce code si desus on vas utiliser une classe personaliser du nom de "tang" qui va nous permettre d'etre perpendiculaire par rapport a la position de la camera ce qui va nous permettre d'avoir un texte qui soit bien placé
 puis on crée des animation, une animation vas changer la couleur du texte du blanc a du bleu, et l'autre animation va augmenter la taille du texte et va la retrecir. 
