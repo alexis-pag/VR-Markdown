@@ -309,4 +309,5 @@ A gauche  on selectionne le texte, puis après on selectionne le menu text a dro
 # [Partie 4 - Implémentation d'une vidéo](https://maximer37.github.io/VR-Markdown/guide1/partie4/index.html)
 
 Pour tout demarage de fichier video ou de fichier audio il faut obligatoirement une interaction qui permet de demmarer c'est dernier. tout cela est la causse de soucis deconomie de bande passance 
-Dans notre cas on va  crée une nouvelle page HTML qui va contenir un panneau avec noté desus "click 
+Dans notre cas on va  crée une nouvelle page HTML qui va contenir un panneau avec noté desus "click me" et qui va nous permettre d'avoir une interation avec le site et donc la video va fonctionner. 
+on va utiliser une ligne de code html pour le panneau 
