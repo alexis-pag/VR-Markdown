@@ -209,6 +209,7 @@ on recherche la ligne du code qui fais reference a la ***fleche*** et on peut co
 
 Dans un deuxieme temps, on va animer notre fleche qui vas aller du haut vers le bas pour mieux indiquer ou va aller l'utilisateur aussi l'implémentation d'un disque.
 
+<img src="partie3/resources/image/imagegenerique/blender1.png" alt="blender etape 1" height="auto" width="200">
 
 <img src="partie3/resources/image/imagegenerique/disque.png" alt="disque final" height="auto" width="300">
 
