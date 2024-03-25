@@ -8,18 +8,3 @@
 
 <a-entity id="disque" obj-model="obj: ./resources/disque.obj" position="-28.2 -.4 -16.9" material="color:#00ff11">
 </a-entity>
-
-<a-entity id="fleche cantine" obj-model="obj: ./resources/fleche.obj" position="2.90123 -2 1.70946" rotation="0.01 -121.31000000000002 0" 
-    material="color: #00fbff" scale="0.46 0.13 0.61">
-</a-entity>
-
-<!-- implémentaion d'une frise sur le panorama pour faciliter le positionnement du texte -->
-<a-ring id="navigation" position="0 -1.5 0" wireframe="true" opacity="0.25" color="red" radius-inner="1" radius-outer="2" 
-    rotation="-90 0 0">
-</a-ring>
-
-<!-- Composant qui permet d'afficher le texte que l'on nom "tang" et qui fonction avec l'index.js -->
-<a-entity tang="angle: 33; Y: 1" text="value: Direction cantine; align: center; width: 20; color: #fcaa1d" position="6.389084080378343 1.5 4.814520185216386" 
-    visible="">
-</a-entity>
-
