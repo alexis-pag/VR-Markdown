@@ -219,7 +219,7 @@ Premierement, on demarre  le logiciel Blender et on va crée un cylindre. Pour c
 
 Enfin, il a plus que redimentionner l'object a l'aide du ***carré bleu*** qui va nous permet de modifier l'object sur l'axe verticale 
 
-<img src="partie3/resources/image/imagegenerique/blender2.png" alt="Blender etape 2" height="auto" width="600">
+<img src="partie3/resources/image/imagegenerique/blender2.png" alt="Blender etape 2" height="auto" width="450">
 
 voila le resultat que l'on obtient sur la page web après  l'avoir integrer avec du code.
 
