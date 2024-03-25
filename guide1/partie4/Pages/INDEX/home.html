@@ -4,6 +4,11 @@
 <!-- Modèle 3D, utilise le composant scene-changer pour changer la scène, il peremet aussi de gerer la position de l'objet, sa rotation et si on veut on peut l'animer -->                                                                            
 <a-entity id="fleche" scene-changer="1" obj-model="obj: ./resources/fleche.obj" position="18.89986 -2 15.47396" class="raycastable" rotation="-90 0 0"animation="property: position; dir: alternate; to: 18.89986 -3 15.47396; loop: true; dur: 1000" material="color: #00ff11"></a-entity>
 
+<a-entity id="disque" obj-model="obj: ./resources/disque.obj" position="18.89986 -3 15.47396" rotation=""
+material="color:#00ff11">
+</a-entity>
+
+
 <!--implémentaion d'une frise sur le panorama pour faciliter le positionnement du texte-->
 <a-ring id="navigation" position="0 -1.5 0" wireframe="true" opacity="0.25" color="red" radius-inner="1" radius-outer="2" rotation="-90 0 0"> </a-ring>
 
