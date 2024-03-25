@@ -217,7 +217,7 @@ Premiere etape, on demarre  le logiciel Blender et on va crée un cylindre. Pour
 
 <img src="partie3/resources/image/imagegenerique/blender1.png" alt="Blender etape 1" height="auto" width="600">
 
-<img src="partie3/resources/image/image/imagegenerique/blender2.png" alt="Blender etape 2" height="auto" width="600">
+<img src="partie3/resources/image/imagegenerique/blender2.png" alt="Blender etape 2" height="auto" width="600">
 
 <img src="partie3/resources/image/imagegenerique/disque.png" alt="disque final" height="auto" width="300">
 
