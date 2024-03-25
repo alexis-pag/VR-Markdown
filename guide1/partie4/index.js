@@ -78,8 +78,8 @@ AFRAME.registerComponent('hide', {
     this.el.setAttribute('visible', false)
   }
 })
-//la fonction qui permet avoir le texte de maniere perpendiculaire 
-  AFRAME.registerComponent('lamo', {
+//la fonction qui permet avoir le texte de maniere tang 
+  AFRAME.registerComponent('tang', {
     schema: {
       angle: {type: 'int', default: 0},
       Y: {type: 'int', default: 1}

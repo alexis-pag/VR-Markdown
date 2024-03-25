@@ -65,7 +65,7 @@ AFRAME.registerComponent('scene-changer', {
     }
   })
 
-  AFRAME.registerComponent('lamo', {
+  AFRAME.registerComponent('tang', {
     schema: {
       angle: {type: 'int', default: 0},
       Y: {type: 'int', default: 1}
