@@ -170,36 +170,35 @@ En résumé, ce code crée une scène de réalité virtuelle avec un ciel textur
 
 <img src="partie2/resources/image/panorama2.jpg" alt="premier panorama" height="auto" width="850">
 
-Dans un premier temps j'ai ajouter un template dans mon code qui va me permettre de gagner du temps sur la création de fonction, on va aussi crée une page javascript du nom de index.js qui va me permetre d'utiliser des variable et des fonction propre a javascript, on va crée deux page html que l'on va ranger dans un dossier spécifique dans l'arboraissance ./partie2/Pages-Index/default.html et dans le dossier ./partie2/Pages-Index/1.html. Dans c'est index on peut y trouver les du code pour inserer un object qui est notre fleche, qui permet de naviger d'un panorama a l'autre. 
+Tout d’abord, j’ai intégré un modèle (template) dans mon code, ce qui me permettra d’économiser du temps lors de la création de fonctions. Ensuite, j’ai créé une page JavaScript nommée `index.js`, qui me permettra d’utiliser des variables et des fonctions spécifiques à JavaScript. De plus, j’ai conçu deux pages HTML que j’ai rangées dans un dossier spécifique de l’arborescence : `./partie2/Pages-Index/default.html` et `./partie2/Pages-Index/1.html.` Dans ces fichiers index, vous trouverez du code pour insérer un objet, à savoir notre flèche, qui permettra de naviguer d’un panorama à l’autre.
 
 ## Changer la couleur d'un object
 
-Pour commencer il faut activer l'inspecteur avec la combinaisson de touche  `ctrl` + `Alt` + `I` 
+Pour démarrer, il est nécessaire d'activer l'inspecteur en utilisant la combinaison de touches.  `ctrl` + `Alt` + `I` 
 
 <img src="partie2/resources/image/imagegenerique/presentationinspecteur.png" alt="mode inspecteur" height="auto" width="850">
 
-A votre gauche on y trouve les element qui compose la page (le panorama,la camera...)
+Sur votre gauche se trouvent les éléments constituant la page (le panorama, la caméra...).
 
-On va selectionner a gauche l'element ***MainScene*** puis dans la partie dérouler on selectionne l'entiter ***fleche*** 
+Nous allons choisir l'élément ***MainScene*** à gauche, puis dans la liste déroulante, nous sélectionnerons l'entité ***fleche***.
 
 <img src="partie2/resources/image/imagegenerique/selection.png" alt="selection" height="auto" width="250">
 
-Puis maintenant notre fleche est selectionner on peut alors acceder au menu de modification des different element ici ce qui nous 
-interesse c'est la couleur
+Maintenant que notre flèche est sélectionnée, nous pouvons accéder au menu permettant de modifier ses différents éléments. Ce qui nous intéresse ici, c'est la couleur.
 
-A votre droite un menu c'est ouvert a fin de modifier la fleche, on va selection le menu deroulant ***Add composant*** on chercher ***Material***
+À droite, un menu s'est ouvert pour modifier la flèche. Nous allons sélectionner le menu déroulant ***Add composant*** et chercher ***Material***.
 
 <img src="partie2/resources/image/imagegenerique/ajoutcomposant.png" alt="ajout composant" height="auto" width="200">
 
-ensuite on peut cliquer sur ***Material*** une ligne avec idiquer ***color*** va nous permetre de changer la couleur, on clique sur le carré blanc et a l'aide du curseur on va selectionner la couleur que l'on veut.
+Ensuite, nous pouvons cliquer sur ***Material***, où une ligne indiquant couleur nous permettra de modifier la  ***color***. En cliquant sur le carré blanc, nous pourrons sélectionner la couleur souhaitée à l'aide du curseur.
 
 <img src="partie2/resources/image/imagegenerique/color.png" alt="changement de couleur" height="auto" width="850">
 
-Enfin on peut copier extraire les modification pour les transformer en code a implementer dedans 
+Finalement, nous pouvons copier et extraire les modifications afin de les transformer en code à implémenter. 
 
 <img src="partie2/resources/image/imagegenerique/copiecode.png" alt="copie code" height="auto" width="200" >
 
-on recherche la ligne du code qui fais reference a la ***fleche*** et on peut coller le nouveau code 
+Nous cherchons la ligne de code qui fait référence à la ***fleche*** , puis nous pouvons coller le nouveau code. 
 
 <img src="partie2/resources/image/imagegenerique/selectioncode.png" alt="selection code" height="auto" width="850">
 
@@ -207,33 +206,37 @@ on recherche la ligne du code qui fais reference a la ***fleche*** et on peut co
 
 # [Partie 3 - Animer un objet et inserer un texte](https://maximer37.github.io/VR-Markdown/guide1/partie3/index.html)
 
-Dans un deuxieme temps, on va animer notre fleche qui vas aller du haut vers le bas pour mieux indiquer ou va aller l'utilisateur 
-aussi l'implémentation d'un disque. 
-
+Ensuite, nous allons animer notre flèche pour qu'elle se déplace de haut en bas, afin de mieux indiquer la direction que prendra l'utilisateur, ainsi que l'ajout d'un disque.
 
 ## Crée un object sur Blender
 
-Premierement, on demarre  le logiciel Blender et on va crée un cylindre. Pour cela, on va dans le menu  ***Modelisation*** puis dans ***ajouter*** on va selectionner ***Maillage*** puis ***Cylindre*** 
+Tout d'abord, nous lançons le logiciel Blender et nous créons un cylindre. Pour cela, nous accédons au menu ***Modelisation***, puis à ***ajouter***, où nous sélectionnons ***Maillage*** et ensuite ***Cylindre***.
 
 <img src="partie3/resources/image/imagegenerique/blender1.png" alt="Blender etape 1" height="auto" width="600">
 
-Enfin, il a plus que redimentionner l'object a l'aide du ***carré bleu*** qui va nous permet de modifier l'object sur l'axe verticale 
+En conclusion, il ne reste plus qu'à redimensionner l'objet en utilisant le ***carre bleu***, qui nous permettra de modifier l'objet sur l'axe vertical.
 
 <img src="partie3/resources/image/imagegenerique/blender2.png" alt="Blender etape 2" height="auto" width="450">
 
-voila le resultat que l'on obtient sur la page web après  l'avoir integrer avec du code.
+Voici le résultat que nous obtenons sur la page web après l'avoir intégré avec le code suivant:
+
+````html
+<a-entity id="disque" obj-model="obj: ./resources/disque.obj" position="18.89986 -3 15.47396" rotation=""
+    material="color:#00ff11">
+</a-entity>
+````
 
 <img src="partie3/resources/image/imagegenerique/disque.png" alt="disque final" height="auto" width="300">
 
 
-Pour realiser cela on va utiliser un composant du nom de animation on vas lui indiquer le type d'animation 
+Pour accomplir cela, nous allons utiliser un composant appelé "animation" auquel nous indiquerons le type d'animation requis.
 
 
 <img src="partie3/resources/image/imagegenerique/frisenavigation.png" alt="frise de navigation" height="auto" width="400">
 
 
-mais aussi inserer des texte pour mieux guider l'utilisateur dans son parcours.
-Pour cela on rajoute un composant pour le texte qui va fonctionner avec une frise qui est au nveau du sol dans le but que le texte  regarde toujours vers l'utilisateur qui se base sur un morceau de code en javascript
+Nous allons également insérer du texte pour mieux orienter l'utilisateur dans son parcours. Pour ce faire, nous ajoutons un composant de texte qui sera associé à une frise positionnée au niveau du sol, afin que le texte soit toujours orienté vers l'utilisateur. Cette fonctionnalité repose sur un morceau de code en JavaScript.
+
 
 ```` html
 <!-- implémentaion d'une frise sur le panorama pour faciliter le positionnement du texte -->
@@ -258,7 +261,8 @@ AFRAME.registerComponent('tang', {
     },
 ````
 
-ainsi que ce code si :
+
+ainsi que ce code également:
 
 ````html
 <!-- Composant qui permet d'afficher le texte que l'on nom "tang" et qui fonction avec l'index.js -->
@@ -288,26 +292,37 @@ ainsi que ce code si :
     animation__1="property: scale; to: 0.95 0.95 0.95; dir: alternate; loop: NaN" visible="">
 </a-entity>
 ````
-avec ce code si desus on vas utiliser une classe personaliser du nom de "tang" qui va nous permettre d'etre perpendiculaire par rapport a la position de la camera ce qui va nous permettre d'avoir un texte qui soit bien placé
-puis on crée des animation, une animation vas changer la couleur du texte du blanc a du bleu, et l'autre animation va augmenter la taille du texte et va la retrecir. 
+Avec ce code, nous allons utiliser une classe personnalisée appelée "tang", qui nous permettra d'être perpendiculaires par rapport à la position de la caméra, assurant ainsi un positionnement optimal du texte.
+
+Ensuite, nous créons des animations : une animation modifiera la couleur du texte du blanc au bleu, tandis que l'autre animation fera varier la taille du texte en l'agrandissant puis en le réduisant.
 
 
 
-On va aussi se fier au site de a-frame pour avoir certaine information sur https://aframe.io/docs/1.5.0/components/text.html
+Nous allons également consulter le site d'A-Frame pour obtenir des informations supplémentaires sur https://aframe.io/docs/1.5.0/components/text.html, qui nous donne des instructions complémentaires pour écrire du texte avec A-Frame.
 
-qui nous donne des imformation complementaire pour ecrir  du text avec a-frame   
-
-
-ensuite on peut modifier certain parametre dans le mode inspecteur qui vont nous permettre de modifier la couleur du texte, centrer le texte... 
+Ensuite, nous pouvons modifier certains paramètres dans le mode inspecteur qui nous permettront de personnaliser le texte, comme sa couleur, son alignement...
 
 
 <img src="partie3/resources/image/imagegenerique/texte.png" alt="inspecteurtext" height="auto" width="850">
 
 
-A gauche  on selectionne le texte, puis après on selectionne le menu text a droit qui vas nous permettre de modifier des options afin de personnaliser le texte a votre façon  puis une fois les modification effectuer on peut alors copier le code de la meme mannier que précedament
+Sur la gauche, nous sélectionnons le texte, puis nous choisissons le menu "Text" à droite, qui nous permettra de modifier différentes options pour personnaliser le texte selon nos préférences. Une fois les modifications effectuées, nous pouvons ensuite copier le code de la même manière que précédemment.
 
 # [Partie 4 - Implémentation d'une vidéo](https://maximer37.github.io/VR-Markdown/guide1/partie4/index.html)
 
-Pour tout demarage de fichier video ou de fichier audio il faut obligatoirement une interaction qui permet de demmarer c'est dernier. tout cela est la causse de soucis deconomie de bande passance 
-Dans notre cas on va  crée une nouvelle page HTML qui va contenir un panneau avec noté desus "click me" et qui va nous permettre d'avoir une interation avec le site et donc la video va fonctionner. 
-on va utiliser une ligne de code html pour le panneau 
+
+Pour débuter la lecture d'un fichier vidéo ou audio, une interaction est nécessaire pour les démarrer. Ceci est dû à des préoccupations concernant l'économie de bande passante. Dans notre situation, nous allons concevoir une nouvelle page HTML comportant un panneau avec l'inscription "click me" dessus. Ce panneau nous permettra d'interagir avec le site, déclenchant ainsi la lecture de la vidéo. Nous utiliserons une seule ligne de code HTML pour créer ce panneau.
+
+````html
+<a-plane color="#CCC" height="20" width="20" scene-changer="home" material="color:#231f1f; blending: additive" class="raycastable" hide scale="0.064 0.064 0.1" position="0 0 -2.00944" text="align: center; 
+alphaTest: 1; color: #ff0000; value: Click me ">
+</a-plane>
+````
+Nous allons également incorporer une vidéo en utilisant cette commande.
+
+````html
+<!-- composant pour implementer une video -->
+<a-video id="video" autoplayloop="true" src="./resources/video/Pirate.mp4" position="-11.98573 16.27849 9.43671" rotation="-1.2564964447218954 141.74632076859487 -0.038388172273765155" scale="15 15 15">
+</a-video>
+````
+L'aspect complexe réside dans l'intégration de la vidéo dans un panorama à 360°, mais cela devient moins compliqué lorsqu'on l'intègre dans un objet en 3D.
