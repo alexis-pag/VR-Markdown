@@ -246,6 +246,15 @@ ainsi que ce code si :
     animation__1="property: scale; to: 1.5 1.5; dir: alternate; loop: true"
 ></a-entity>
 ````
+avec ce code si desus on vas utiliser une classe personaliser du nom de lamo qui va nous permettre d'etre perpendiculaire par rapport a la position de la camera ce qui va nous permettre d'avoir un texte qui soit bien placé
+puis on crée des animation, une animation vas changer la couleur du texte du blanc a du bleu, et l'autre animation va augmenter la taille du texte et va la retrecir. 
+
+
+
+On va aussi se fier au site de a-frame pour avoir certaine information sur https://aframe.io/docs/1.5.0/components/text.html
+ 
+
+
 ensuite on peut modifier certain parametre dans le mode inspecteur qui vont nous permettre de modifier la couleur du texte, centrer le texte... 
 
 
