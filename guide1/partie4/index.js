@@ -82,6 +82,7 @@ AFRAME.registerComponent('hide', {
   AFRAME.registerComponent('tang', {
     schema: {
       angle: {type: 'int', default: 0},
+      rad: {type: 'int', default: 4},
       Y: {type: 'int', default: 1}
     },
   
@@ -93,7 +94,7 @@ AFRAME.registerComponent('hide', {
       console.log("update")
       // ------ \\
       let container = $("#navigation")[0]
-      let angle = this.data["angle"] / (180 / Math.PI), radius = container.getAttribute("radius-outer") * 4
+      let angle = this.data["angle"] / (180 / Math.PI), radius = container.getAttribute("radius-outer") * this.data.rad
       let x = ( radius ) * Math.cos(angle), z = ( radius ) * Math.sin(angle); 
     
       this.el.setAttribute("position", {"x": x, "y": container.getAttribute("position").y + this.data["Y"], "z": z})
