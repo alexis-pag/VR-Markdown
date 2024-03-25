@@ -205,7 +205,9 @@ on recherche la ligne du code qui fais reference a la ***fleche*** et on peut co
 
 # [Partie 3 - Animer un objet et inserer un texte](https://maximer37.github.io/VR-Markdown/guide1/partie3/index.html)
 
-Dans un deuxieme temps on va animer notre fleche qui vas aller du haut vers le bas pour mieux indiquer ou va aller l'utilisateur .Pour realiser cela on va utiliser un composant du nom de animation on vas lui indiquer le type d'animation  mais aussi inserer des texte pour mieux guider l'utilisateur dans son parcours.
+Dans un deuxieme temps, on va animer notre fleche qui vas aller du haut vers le bas pour mieux indiquer ou va aller l'utilisateur .Pour realiser cela on va utiliser un composant du nom de animation on vas lui indiquer le type d'animation 
+
+mais aussi inserer des texte pour mieux guider l'utilisateur dans son parcours.
 Pour cela on rajoute un composant pour le texte qui va fonctionner avec une frise qui est au nveau du sol dans le but que le texte  regarde toujours vers l'utilisateur qui se base sur un morceau de code en javascript 
 
 ````js
@@ -252,7 +254,8 @@ puis on crée des animation, une animation vas changer la couleur du texte du bl
 
 
 On va aussi se fier au site de a-frame pour avoir certaine information sur https://aframe.io/docs/1.5.0/components/text.html
- 
+
+qui nous donne des imformation complementaire pour ecrir  du text avec a-frame   
 
 
 ensuite on peut modifier certain parametre dans le mode inspecteur qui vont nous permettre de modifier la couleur du texte, centrer le texte... 
