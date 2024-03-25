@@ -208,7 +208,14 @@ on recherche la ligne du code qui fais reference a la ***fleche*** et on peut co
 Dans un deuxieme temps, on va animer notre fleche qui vas aller du haut vers le bas pour mieux indiquer ou va aller l'utilisateur .Pour realiser cela on va utiliser un composant du nom de animation on vas lui indiquer le type d'animation 
 
 mais aussi inserer des texte pour mieux guider l'utilisateur dans son parcours.
-Pour cela on rajoute un composant pour le texte qui va fonctionner avec une frise qui est au nveau du sol dans le but que le texte  regarde toujours vers l'utilisateur qui se base sur un morceau de code en javascript 
+Pour cela on rajoute un composant pour le texte qui va fonctionner avec une frise qui est au nveau du sol dans le but que le texte  regarde toujours vers l'utilisateur qui se base sur un morceau de code en javascript
+```` html
+<!-- implémentaion d'une frise sur le panorama pour faciliter le positionnement du texte -->
+<a-ring id="navigation" position="0 -1.5 0" wireframe="true" opacity="0.25" color="red" radius-inner="1" radius-outer="2" 
+    rotation="-90 0 0">
+</a-ring>
+````
+
 
 ````js
 // crée un composant du nom  de "tang"
@@ -224,6 +231,7 @@ AFRAME.registerComponent('tang', {
       this.update = this.update.bind(this)
     },
 ````
+
 ainsi que ce code si :
 
 ````html
