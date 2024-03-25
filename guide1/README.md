@@ -209,7 +209,9 @@ on recherche la ligne du code qui fais reference a la ***fleche*** et on peut co
 
 Dans un deuxieme temps, on va animer notre fleche qui vas aller du haut vers le bas pour mieux indiquer ou va aller l'utilisateur aussi l'implémentation d'un disque.
 
-<img src="partie3/resources/image/imagegenerique/disqu.png>" alt="disque final" height="auto" width="300">
+
+<img src="partie3/resources/image/imagegenerique/disque.png>" alt="disque final" height="auto" width="300">
+
 
 Pour realiser cela on va utiliser un composant du nom de animation on vas lui indiquer le type d'animation 
 
