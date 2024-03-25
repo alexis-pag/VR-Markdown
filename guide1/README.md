@@ -203,9 +203,13 @@ on recherche la ligne du code qui fais reference a la ***fleche*** et on peut co
 
 <img src="partie2/resources/image/imagegenerique/selectioncode.png" alt="selection code" height="auto" width="850">
 
+
+
 # [Partie 3 - Animer un objet et inserer un texte](https://maximer37.github.io/VR-Markdown/guide1/partie3/index.html)
 
-Dans un deuxieme temps, on va animer notre fleche qui vas aller du haut vers le bas pour mieux indiquer ou va aller l'utilisateur .
+Dans un deuxieme temps, on va animer notre fleche qui vas aller du haut vers le bas pour mieux indiquer ou va aller l'utilisateur aussi l'implémentation d'un disque.
+<img src="partie3/resources/image/imagegenerique/disque.png>" alt="disque final" height="auto" width="300"
+
 Pour realiser cela on va utiliser un composant du nom de animation on vas lui indiquer le type d'animation 
 
 
