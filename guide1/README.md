@@ -261,25 +261,21 @@ AFRAME.registerComponent('tang', {
 ainsi que ce code si :
 
 ````html
-<a-entity id=Batiment1 tang="angle: -55; Y: 6" text="value: Batiment 1; align: center; width: 20; color: #ffea00" position="6.12836 4.15871 -5.1423" 
-    material="color: #00ff11" visible=""
-    animation="property:components.text.material.uniforms.color.value ; type: color; to: yellow; dir: alternate; loop: true" visible="" 
-    material="color: #00ccff">
+<!-- Composant qui permet d'afficher le texte que l'on nom "tang" et qui fonction avec l'index.js -->
+<a-entity id=Batiment1 tang="angle: -55; Y: 6" text="value: Batiment 1; align: center; width: 20; color: #ffea00" position="6.12836 4.15871 -5.1423">
 </a-entity>
 
 <a-entity id=Stade tang="angle: 175; Y: 1" text="value: Stade; align: center; width: 20; color: #f50000" position="-8.90811 2.01835 4.38159" 
-    rotation="0 127.00000000000001 0"
-    animation="property: scale; to: 1.5 1.5; dir: alternate; loop: true">
+    rotation="0 127.00000000000001 0">
 </a-entity>
 
 <a-entity id=Definition tang="angle: 123; Y: -3" text="value: Ouvrage de sculpture représentant en entier un etre vivant. Statue équestre. Personne immobile, sans expression.;
- align: center; width: 20; color: #ffffff" position="-3.38616 -3.5 4.61051" rotation="-14.036243467926479 147 -8.196101812329258e-16" visible="" scale="0.5 0.5 0.5">
+    align: center; width: 20; color: #ffffff" position="-3.38616 -3.5 4.61051" rotation="-14.036243467926479 147 -8.196101812329258e-16" visible="" scale="0.5 0.5 0.5">
 </a-entity>
 
 <a-entity id=Statue tang="angle: 123; Y: -1" text="value: STATUE; align: center; width: 20; color: #0089eb" position="-4.357112280120217 -2.5 6.7093645435633915" 
     rotation="-7.1250163489017995 147 0" 
-    animation="property:components.text.material.uniforms.color.value; type: color; to: blue; dir: alternate; loop: true" visible="" material="color: #00ccff" 
-    animation__1="property: scale; to: 1.5 1.5; dir: alternate; loop: true"
+    animation__1="property: scale; to: 0.95 0.95 0.95; dir: alternate; loop: true"
 ></a-entity>
 ````
 avec ce code si desus on vas utiliser une classe personaliser du nom de "tang" qui va nous permettre d'etre perpendiculaire par rapport a la position de la camera ce qui va nous permettre d'avoir un texte qui soit bien placé
