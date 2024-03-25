@@ -300,11 +300,4 @@ A gauche  on selectionne le texte, puis après on selectionne le menu text a dro
 # [Partie 4 - Implémentation d'une vidéo](https://maximer37.github.io/VR-Markdown/guide1/partie4/index.html)
 
 Pour tout demarage de fichier video ou de fichier audio il faut obligatoirement une interaction qui permet de demmarer c'est dernier. tout cela est la causse de soucis deconomie de bande passance 
-
-<!-- 
-````
-<a-entity id="printer" scene-changer="" obj-model="obj: ./resources/fleche.obj" position="-28.26659 0.24929 -16.91649" class="raycastable" rotation="-90 0 0" 
-
-
-animation="property: position; dir: alternate; to: -28.2 -.4 -16.9; loop: true; dur: 1000"></a-entity>
-````-->
+Dans notre cas on va  crée une nouvelle page HTML qui va contenir un panneau avec noté desus "click 
