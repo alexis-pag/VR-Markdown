@@ -208,16 +208,20 @@ on recherche la ligne du code qui fais reference a la ***fleche*** et on peut co
 # [Partie 3 - Animer un objet et inserer un texte](https://maximer37.github.io/VR-Markdown/guide1/partie3/index.html)
 
 Dans un deuxieme temps, on va animer notre fleche qui vas aller du haut vers le bas pour mieux indiquer ou va aller l'utilisateur 
-aussi l'implémentation d'un disque.
+aussi l'implémentation d'un disque. 
 
 
 ## Crée un object sur Blender
 
-Premiere etape, on demarre  le logiciel Blender et on va crée un cylindre. Pour cela, on va dans le menu  ***Modelisation*** puis dans ***ajouter*** on va selectionner ***Maillage*** puis ***Cylindre*** 
+Premierement, on demarre  le logiciel Blender et on va crée un cylindre. Pour cela, on va dans le menu  ***Modelisation*** puis dans ***ajouter*** on va selectionner ***Maillage*** puis ***Cylindre*** 
 
 <img src="partie3/resources/image/imagegenerique/blender1.png" alt="Blender etape 1" height="auto" width="600">
 
+Enfin, il a plus que redimentionner l'object a l'aide du ***carré bleu*** qui va nous permet de modifier l'object sur l'axe verticale 
+
 <img src="partie3/resources/image/imagegenerique/blender2.png" alt="Blender etape 2" height="auto" width="600">
+
+voila le resultat que l'on obtient sur la page web après  l'avoir integrer avec du code.
 
 <img src="partie3/resources/image/imagegenerique/disque.png" alt="disque final" height="auto" width="300">
 
