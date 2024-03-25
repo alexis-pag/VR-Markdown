@@ -1,7 +1,7 @@
-<!-- Dome qui contien une image en 360° -->
+<!-- Sphère entourant l'utilisateur sur laquelle est projetée notre image en 360° -->
 <a-sky src="./resources/image/panorama2.jpg"></a-sky>
 
-<!-- Modèle 3D, utilise le composant scene-changer pour changer la scène -->
+<!-- Modèle 3D de déplacement, utilise le composant "scene-changer" pour passer à un autre panorama -->
 <a-entity id="fleche" scene-changer="home" obj-model="obj: ./resources/fleche.obj" position="-28.26659 0.24929 -16.91649" class="raycastable" rotation="-90 0 0" 
 animation="property: position; dir: alternate; to: -28.2 -.4 -16.9; loop: true; dur: 1000" material="color: #00ff11"></a-entity>
 
