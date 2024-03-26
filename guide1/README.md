@@ -473,12 +473,17 @@ Sur la gauche, nous sélectionnons le texte, puis nous choisissons le menu "Text
 
 Pour débuter la lecture d'un fichier vidéo ou audio, une interaction est nécessaire pour les démarrer. Ceci est dû à des préoccupations concernant l'économie de bande passante. Dans notre situation, nous allons concevoir une nouvelle page HTML comportant un panneau avec l'inscription "click me" dessus. Ce panneau nous permettra d'interagir avec le site, déclenchant ainsi la lecture de la vidéo. Nous utiliserons une seule ligne de code HTML pour créer ce panneau.
 
+<img src="partie4/resources/image/imagegenerique/clickme.png" alt="Click me" height="auto" width="450" >
+
 ````html
 <a-plane color="#CCC" height="20" width="20" scene-changer="home" material="color:#231f1f; blending: additive" class="raycastable" hide scale="0.064 0.064 0.1" position="0 0 -2.00944" text="align: center; 
 alphaTest: 1; color: #ff0000; value: Click me ">
 </a-plane>
 ````
+
+
 Nous allons également incorporer une vidéo en utilisant cette commande.
+
 
 ````html
 <!-- composant pour implementer une video -->
