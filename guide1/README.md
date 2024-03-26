@@ -166,29 +166,38 @@ En résumé, ce code crée une scène de réalité virtuelle avec un ciel textur
 <img src="partie2/resources/image/panorama1.jpg" alt="premier panorama" height="auto" width="850">
 
 
-GIMP, ou GNU Image Manipulation Program, est un logiciel de retouche d'images libre et gratuit offrant plusieurs avantages pour la création de panoramas 360° :
+## GIMP, ou GNU Image Manipulation Program, est un logiciel de retouche d'images libre et gratuit offrant plusieurs avantages pour la création de panoramas 360° :
 
-Gratuit et Open Source : GIMP est accessible gratuitement, ce qui en fait un outil économique pour les artistes et les créateurs. De plus, étant open source, il permet aux utilisateurs de personnaliser et d'étendre ses fonctionnalités selon leurs besoins spécifiques.
+### Gratuit et Open Source :
+ GIMP est accessible gratuitement, ce qui en fait un outil économique pour les artistes et les créateurs. De plus, étant open source, il permet aux utilisateurs de personnaliser et d'étendre ses fonctionnalités selon leurs besoins spécifiques.
 
-Large gamme de fonctionnalités : GIMP offre une gamme complète d'outils de retouche d'images, y compris des outils de peinture, de sélection, de correction des couleurs, de clonage, de transformation et bien d'autres encore. Cette diversité d'outils permet aux utilisateurs de réaliser une grande variété de tâches de retouche et de manipulation d'images, y compris la création de panoramas 360°.
+### Large gamme de fonctionnalités : 
+GIMP offre une gamme complète d'outils de retouche d'images, y compris des outils de peinture, de sélection, de correction des couleurs, de clonage, de transformation et bien d'autres encore. Cette diversité d'outils permet aux utilisateurs de réaliser une grande variété de tâches de retouche et de manipulation d'images, y compris la création de panoramas 360°.
 
-Prise en charge des images à haute résolution : Les panoramas 360° sont souvent composés de plusieurs images haute résolution. GIMP est capable de manipuler et de traiter ces images sans perte de qualité, ce qui en fait un choix approprié pour la création de panoramas de haute qualité.
+### Prise en charge des images à haute résolution : 
+Les panoramas 360° sont souvent composés de plusieurs images haute résolution. GIMP est capable de manipuler et de traiter ces images sans perte de qualité, ce qui en fait un choix approprié pour la création de panoramas de haute qualité.
 
-Plugins et scripts personnalisés : GIMP offre la possibilité d'installer des plugins et des scripts personnalisés, ce qui permet aux utilisateurs d'ajouter des fonctionnalités supplémentaires selon leurs besoins. Certains plugins peuvent être spécifiquement conçus pour faciliter la création de panoramas 360°, offrant ainsi des fonctionnalités spécialisées pour ce type de projet.
+### Plugins et scripts personnalisés :
+GIMP offre la possibilité d'installer des plugins et des scripts personnalisés, ce qui permet aux utilisateurs d'ajouter des fonctionnalités supplémentaires selon leurs besoins. Certains plugins peuvent être spécifiquement conçus pour faciliter la création de panoramas 360°, offrant ainsi des fonctionnalités spécialisées pour ce type de projet.
 
-Flexibilité dans le traitement des images : Avec GIMP, les utilisateurs ont un contrôle total sur chaque aspect de leurs images. Ils peuvent ajuster la luminosité, le contraste, la saturation, la netteté, et bien d'autres paramètres pour obtenir l'effet désiré dans leur panorama 360°.
+### Flexibilité dans le traitement des images :
+Avec GIMP, les utilisateurs ont un contrôle total sur chaque aspect de leurs images. Ils peuvent ajuster la luminosité, le contraste, la saturation, la netteté, et bien d'autres paramètres pour obtenir l'effet désiré dans leur panorama 360°.
 
-Pour utiliser GIMP dans la création de panoramas 360°, voici quelques étapes recommandées :
+## Pour utiliser GIMP dans la création de panoramas 360°, voici quelques étapes recommandées :
 
-Préparation des images : Importez toutes les images individuelles composant votre panorama 360° dans GIMP. Assurez-vous qu'elles sont alignées correctement et qu'elles sont prêtes à être assemblées.
+### Préparation des images :
+Importez toutes les images individuelles composant votre panorama 360° dans GIMP. Assurez-vous qu'elles sont alignées correctement et qu'elles sont prêtes à être assemblées.
 
-Assemblage des images : Utilisez les outils de GIMP pour assembler les images individuelles en un seul panorama 360°. Vous pouvez utiliser des fonctionnalités telles que l'outil de collage, l'alignement automatique ou manuel, et la superposition de calques pour réaliser cette étape.
+### Assemblage des images :
+Utilisez les outils de GIMP pour assembler les images individuelles en un seul panorama 360°. Vous pouvez utiliser des fonctionnalités telles que l'outil de collage, l'alignement automatique ou manuel, et la superposition de calques pour réaliser cette étape.
 
-Réglages et corrections : Effectuez des ajustements de couleur, de contraste et de netteté pour harmoniser les différentes parties de votre panorama 360°. Vous pouvez également utiliser des outils de retouche pour éliminer les imperfections ou les éléments indésirables de l'image.
+### Réglages et corrections :
+Effectuez des ajustements de couleur, de contraste et de netteté pour harmoniser les différentes parties de votre panorama 360°. Vous pouvez également utiliser des outils de retouche pour éliminer les imperfections ou les éléments indésirables de l'image.
 
-Exportation du panorama : Une fois que votre panorama 360° est assemblé et retouché, exportez-le dans le format souhaité pour une utilisation ultérieure. Assurez-vous de choisir un format d'image compatible avec les plateformes ou les appareils sur lesquels vous prévoyez de partager votre panorama.
+### Exportation du panorama :
+Une fois que votre panorama 360° est assemblé et retouché, exportez-le dans le format souhaité pour une utilisation ultérieure. Assurez-vous de choisir un format d'image compatible avec les plateformes ou les appareils sur lesquels vous prévoyez de partager votre panorama.
 
-En suivant ces étapes et en exploitant les fonctionnalités puissantes de GIMP, vous serez en mesure de créer des panoramas 360° de haute qualité et impressionnants.
+***En suivant ces étapes et en exploitant les fonctionnalités puissantes de GIMP, vous serez en mesure de créer des panoramas 360° de haute qualité et impressionnants.***
 
 # [Partie 2 - Navigation entre deux panorama 360](https://maximer37.github.io/VR-Markdown/guide1/partie2/index.html)
 
