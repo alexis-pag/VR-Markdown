@@ -495,4 +495,4 @@ Nous allons également incorporer une vidéo en utilisant cette commande.
 
 L'intégration de la vidéo dans un panorama à 360° peut être complexe, mais cette tâche devient plus simple lorsqu'elle est intégrée dans un objet en 3D. Par exemple, dans cette incrustation vidéo, des modifications ont été apportées pour l'adapter à son emplacement spécifique.
 
-<img src="partie4/resources/image/imagegenerique/fantome.png" alt="Fantome" height="auto" width="450">
+<img src= alt="Fantome" height="auto" width="450">
