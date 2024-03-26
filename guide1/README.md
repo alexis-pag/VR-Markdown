@@ -205,7 +205,7 @@ Une fois que votre panorama 360° est assemblé et retouché, exportez-le dans l
 
 Tout d’abord, j’ai intégré un modèle (template) dans mon code, ce qui me permettra d’économiser du temps lors de la création de fonctions. Ensuite, j’ai créé une page JavaScript nommée `index.js`, qui me permettra d’utiliser des variables et des fonctions spécifiques à JavaScript. De plus, j’ai conçu deux pages HTML que j’ai rangées dans un dossier spécifique de l’arborescence : `./partie2/Pages-Index/default.html` et `./partie2/Pages-Index/1.html.` Dans ces fichiers index, vous trouverez du code pour insérer un objet, à savoir notre flèche, qui permettra de naviguer d’un panorama à l’autre.
 
-## L'Inspecteur A-Frame Framework 1.5 offre plusieurs avantages essentiels pour la création de panoramas 360° :
+## L'Inspecteur A-Frame Framework 1.5 offre plusieurs avantages essentiels pour la création de panoramas 360°:
 
 ### Visualisation en Temps Réel :
 L'inspecteur permet de visualiser les changements apportés à la scène VR en temps réel, ce qui est particulièrement utile lors de la création de panoramas 360° pour s'assurer que chaque ajustement est conforme à la vision initiale du projet.
