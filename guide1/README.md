@@ -491,5 +491,6 @@ Nous allons également incorporer une vidéo en utilisant cette commande.
 </a-video>
 ````
 
-L'aspect complexe réside dans l'intégration de la vidéo dans un panorama à 360°, mais cela devient moins compliqué lorsqu'on l'intègre dans un objet en 3D.
+<img src="partie4/resources/image/imagegenerique/drapeaupirate.png" alt="Drapeau Pirate" height="auto" width="450">
 
+L'intégration de la vidéo dans un panorama à 360° peut être complexe, mais cette tâche devient plus simple lorsqu'elle est intégrée dans un objet en 3D. Par exemple, dans cette incrustation vidéo, des modifications ont été apportées pour l'adapter à son emplacement spécifique.
