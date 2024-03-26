@@ -63,24 +63,6 @@ En exterieur, des outils comme google earth sont particulièrement utiles.
 
 L'importation des images est le moment ideal pour mofier la résolution  modifier la resolution de l'image de 2880 pixel par 1440 pixel avec le logiciel de la caméra puis j'ai flouté le visage pour par la suite les importer 
 
-on va utiliser le code suivant pour importer l'image 360 sur le navigateur:
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
-  </head>
-  <body>
-    <a-scene>
-      <a-sky src="./images/panorama1.jpg"></a-sky>
-    </a-scene>
-  </body>
-</html>
-```
-*... et c'est tout!*
-
-Nous créons donc un document html à la racine de notre compte Github intitullé index.html
-
 
 ## Création d’un compte GitHub :
 
@@ -134,6 +116,26 @@ Votre site sera accessible via l’URL https://<votre-nom-d'utilisateur>.github.
 
 Remarque : Les sites GitHub Pages sont disponibles publiquement sur Internet, même si leur dépôt est privé. Assurez-vous de ne pas inclure de données sensibles dans votre dépôt avant la publication
 
+
+
+on va utiliser le code suivant pour importer l'image 360 sur le navigateur:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-sky src="./images/panorama1.jpg"></a-sky>
+    </a-scene>
+  </body>
+</html>
+```
+*... et c'est tout!*
+
+Nous créons donc un document html à la racine de notre compte Github intitullé index.html
 
 ## Explication du code
 
