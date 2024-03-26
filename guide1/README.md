@@ -483,5 +483,6 @@ Nous allons également incorporer une vidéo en utilisant cette commande.
 <a-video id="video" autoplayloop="true" src="./resources/video/Pirate.mp4" position="-11.98573 16.27849 9.43671" rotation="-1.2564964447218954 141.74632076859487 -0.038388172273765155" scale="15 15 15">
 </a-video>
 ````
+
 L'aspect complexe réside dans l'intégration de la vidéo dans un panorama à 360°, mais cela devient moins compliqué lorsqu'on l'intègre dans un objet en 3D.
 
