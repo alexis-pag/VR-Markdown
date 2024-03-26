@@ -8,12 +8,14 @@
 > - **Yanis Maafa**,  élève en TPRO SN SSIHT au lycée Louis de Cormontaigne, Metz
 > - **Matthieu Farcot**, encadrement et validation, lycée Louis de Cormontaigne, Metz
 
+
 ## Objectif du document:
 Expliquer comment créer et mettre en ligne des visites virtuelles incluant des éléments pédagogiques diversifiés. La technologie utilisée doit être entièrement gratuite et sous licence libre - y inclut l'hebergement. La technologie doit permettre une navoigation compatible avec les spécificités de multiples appareils, y inclut la navigation en VR 
 
 Ce document doit inclure toutes les étapes de la réalisation, des prises de vue à l'édition du code en passant par l'hébergement. Le tout doit être écrit de la manière la plus simple et didactique possible, en procédant étape par étape.
 
 La cible du document est le grand public *sans connaissances techniques préalables*.
+
 
 ## Introduction
 Bienvenue sur notre page dédiée à la réalisation de panoramas 360° pour l’éducation en utilisant les bibliothèques A-Frame.
@@ -26,9 +28,12 @@ Sur cette page, nous vous guiderons à travers les étapes de la création de vo
 
 Que vous soyez un enseignant cherchant à intégrer la réalité virtuelle dans votre salle de classe, un développeur web cherchant à créer des ressources éducatives interactives, ou simplement quelqu’un qui est curieux de la technologie de panorama 360°, nous espérons que vous trouverez cette page informative et utile. Bonne création !
 
+
 # [Partie 1 - Matériel préparatoire et prises de vues](https://maximer37.github.io/VR-Markdown/guide1/partie1/index.html)
 
+
 ## En amont : La plannification
+
 
 La plannification, définissant l'objet de la visite et le contenu qui devra s'afficher, est essentielle en amont de toute production. Ceci est plus simple à dire qu'à faire, mais il est essentiel de définir l'objectif de la visite et d'avoir une idée claire de *ce qui doit être montré*.
 
@@ -36,7 +41,9 @@ Dans notre cadre, nous allons réaliser une viste virtuelle simple du terrain de
 
 Ceci explique l'importance d'une reflexion en amont, afin d'être sûr d'avoir toutes les images requises. Prendre une prise de vue manquante dans un deuxième temps risque expose l'opération à des changement brutaux de conditions de navigation (lumière ou météo différente par exemple) qui vont nuire à l'immersion.
 
+
 ## Matériel nécéssaire
+
 
 - Une caméra 360° (nous utiliserons une caméra Insta 360 pour cet exemple).
 - Un pied pour appareil photo (afin d'avoir une hauteur de prise de vue fixe entre les différents panoramas)
@@ -45,7 +52,9 @@ Ceci explique l'importance d'une reflexion en amont, afin d'être sûr d'avoir t
   - Un logiciel d'édition et de retouche d'image (ici GIMP)
   - Un compte GitHub (nous utiliserons cette plateforme pour l'hebergement des scènes, et nous nous assurerons que vous puissiez retrouver les fichiers issus de ce document)
 
+
 ### Prise des vues 360°
+
 
 Il est utile de bien plannifier en amont de toutes prises de vues les endroits où seront réalisés les photos.
 En exterieur, des outils comme google earth sont particulièrement utiles.
@@ -125,7 +134,9 @@ Votre site sera accessible via l’URL https://<votre-nom-d'utilisateur>.github.
 
 Remarque : Les sites GitHub Pages sont disponibles publiquement sur Internet, même si leur dépôt est privé. Assurez-vous de ne pas inclure de données sensibles dans votre dépôt avant la publication
 
+
 ## Explication du code
+
 
 Ce code est un exemple simple d’une page Web qui utilise la bibliothèque JavaScript A-Frame pour afficher une image à 360 degrés. Voici une explication détaillée de chaque partie :
 
@@ -168,75 +179,105 @@ En résumé, ce code crée une scène de réalité virtuelle avec un ciel textur
 
 ## GIMP, ou GNU Image Manipulation Program, est un logiciel de retouche d'images libre et gratuit offrant plusieurs avantages pour la création de panoramas 360° :
 
+
 ### Gratuit et Open Source :
+
  GIMP est accessible gratuitement, ce qui en fait un outil économique pour les artistes et les créateurs. De plus, étant open source, il permet aux utilisateurs de personnaliser et d'étendre ses fonctionnalités selon leurs besoins spécifiques.
 
 ### Large gamme de fonctionnalités : 
+
 GIMP offre une gamme complète d'outils de retouche d'images, y compris des outils de peinture, de sélection, de correction des couleurs, de clonage, de transformation et bien d'autres encore. Cette diversité d'outils permet aux utilisateurs de réaliser une grande variété de tâches de retouche et de manipulation d'images, y compris la création de panoramas 360°.
 
 ### Prise en charge des images à haute résolution : 
+
 Les panoramas 360° sont souvent composés de plusieurs images haute résolution. GIMP est capable de manipuler et de traiter ces images sans perte de qualité, ce qui en fait un choix approprié pour la création de panoramas de haute qualité.
 
 ### Plugins et scripts personnalisés :
+
 GIMP offre la possibilité d'installer des plugins et des scripts personnalisés, ce qui permet aux utilisateurs d'ajouter des fonctionnalités supplémentaires selon leurs besoins. Certains plugins peuvent être spécifiquement conçus pour faciliter la création de panoramas 360°, offrant ainsi des fonctionnalités spécialisées pour ce type de projet.
 
 ### Flexibilité dans le traitement des images :
+
 Avec GIMP, les utilisateurs ont un contrôle total sur chaque aspect de leurs images. Ils peuvent ajuster la luminosité, le contraste, la saturation, la netteté, et bien d'autres paramètres pour obtenir l'effet désiré dans leur panorama 360°.
+
 
 ## Pour utiliser GIMP dans la création de panoramas 360°, voici quelques étapes recommandées :
 
+
 ### Préparation des images :
+
 Importez toutes les images individuelles composant votre panorama 360° dans GIMP. Assurez-vous qu'elles sont alignées correctement et qu'elles sont prêtes à être assemblées.
 
 ### Assemblage des images :
+
 Utilisez les outils de GIMP pour assembler les images individuelles en un seul panorama 360°. Vous pouvez utiliser des fonctionnalités telles que l'outil de collage, l'alignement automatique ou manuel, et la superposition de calques pour réaliser cette étape.
 
 ### Réglages et corrections :
+
 Effectuez des ajustements de couleur, de contraste et de netteté pour harmoniser les différentes parties de votre panorama 360°. Vous pouvez également utiliser des outils de retouche pour éliminer les imperfections ou les éléments indésirables de l'image.
 
 ### Exportation du panorama :
+
 Une fois que votre panorama 360° est assemblé et retouché, exportez-le dans le format souhaité pour une utilisation ultérieure. Assurez-vous de choisir un format d'image compatible avec les plateformes ou les appareils sur lesquels vous prévoyez de partager votre panorama.
 
 ***En suivant ces étapes et en exploitant les fonctionnalités puissantes de GIMP, vous serez en mesure de créer des panoramas 360° de haute qualité et impressionnants.***
 
+
 # [Partie 2 - Navigation entre deux panorama 360](https://maximer37.github.io/VR-Markdown/guide1/partie2/index.html)
+
 
 <img src="partie2/resources/image/panorama2.jpg" alt="premier panorama" height="auto" width="850">
 
 Tout d’abord, j’ai intégré un modèle (template) dans mon code, ce qui me permettra d’économiser du temps lors de la création de fonctions. Ensuite, j’ai créé une page JavaScript nommée `index.js`, qui me permettra d’utiliser des variables et des fonctions spécifiques à JavaScript. De plus, j’ai conçu deux pages HTML que j’ai rangées dans un dossier spécifique de l’arborescence : `./partie2/Pages-Index/default.html` et `./partie2/Pages-Index/1.html.` Dans ces fichiers index, vous trouverez du code pour insérer un objet, à savoir notre flèche, qui permettra de naviguer d’un panorama à l’autre.
 
+
 ## L'Inspecteur A-Frame Framework 1.5 offre plusieurs avantages essentiels pour la création de panoramas 360° :
 
+
 ### Visualisation en Temps Réel :
+
 L'inspecteur permet de visualiser les changements apportés à la scène VR en temps réel, ce qui est particulièrement utile lors de la création de panoramas 360° pour s'assurer que chaque ajustement est conforme à la vision initiale du projet.
 
 ### Débogage Facilité :
+
 Avec ses fonctionnalités de débogage avancées, l'inspecteur permet d'identifier et de corriger rapidement les éventuels problèmes dans la scène VR, garantissant ainsi une expérience sans faille pour les utilisateurs finaux.
 
 ### Manipulation Intuitive : 
+
 Grâce à une interface utilisateur conviviale, l'Inspecteur A-Frame Framework 1.5 permet de manipuler facilement les propriétés des entités VR, ce qui est essentiel pour ajuster les paramètres de la caméra et des éléments de la scène afin de créer un panorama 360° réaliste et immersif.
 
 ### Optimisation des Performances :  
+
 En permettant d'inspecter et de modifier les éléments de la scène en détail, l'inspecteur facilite l'optimisation des performances des panoramas 360°, en veillant à ce que les ressources soient utilisées de manière efficiente et que l'expérience utilisateur soit fluide.
 
 ### Compatibilité et Portabilité : 
+
 L'Inspecteur A-Frame Framework 1.5 est compatible avec une gamme de dispositifs et de navigateurs, ce qui garantit que les panoramas 360° créés avec cet outil peuvent être facilement partagés et expérimentés par un large public.
+
 
 ## Pour utiliser efficacement l'Inspecteur A-Frame Framework 1.5 dans la création de panoramas 360°, voici quelques étapes recommandées :
 
+
 ### Planification et Conception : 
+
 Avant de commencer la création du panorama 360°, définissez clairement votre vision et vos objectifs. Utilisez l'inspecteur pour esquisser et visualiser la disposition des éléments de la scène.
 
 ### Construction de la Scène :
-Utilisez l'inspecteur pour ajouter et positionner les éléments de la scène, tels que les images panoramiques, les points d'intérêt et les zones interactives, en vous assurant que chaque élément contribue à l'immersion globale du panorama 360°.
+
+Utilisez l'inspecteur pour ajouter et positionner les éléments de la scène, tels que les images panoramiques, les points d'intérêt 
+et les zones interactives, en vous assurant que chaque élément contribue à l'immersion globale du panorama 360°.
 
 ### Ajustements et Tests : 
+
 Utilisez l'inspecteur pour ajuster les propriétés de la caméra et des éléments de la scène, en vous basant sur les retours visuels et les tests de navigation pour peaufiner chaque détail et optimiser l'expérience utilisateur.
 
+
 ### Débogage et Optimisation : 
+
 Utilisez les outils de débogage de l'inspecteur pour identifier et corriger les éventuels problèmes de performance ou d'affichage, en veillant à ce que le panorama 360° fonctionne de manière fluide sur tous les appareils et navigateurs compatibles.
 
 ***En suivant ces étapes et en exploitant les fonctionnalités avancées de l'Inspecteur A-Frame Framework 1.5, vous serez en mesure de créer des panoramas 360° immersifs et captivants qui captiveront et engageront votre public cible.***
+
 
 
 ## Changer la couleur d'un object
@@ -275,40 +316,56 @@ Nous cherchons la ligne de code qui fait référence à la ***fleche*** , puis n
 
 Ensuite, nous allons animer notre flèche pour qu'elle se déplace de haut en bas, afin de mieux indiquer la direction que prendra l'utilisateur, ainsi que l'ajout d'un disque.
 
+
 ## Blender est un logiciel de modélisation 3D et d'animation. Voici les avantages de Blender et comment il peut être utilisé dans la création de panoramas 360° :
+
 
 ### Avantages de Blender :
 
+
 ### Gratuit et Open Source : 
+
 Blender est un logiciel gratuit et open source, ce qui le rend accessible à tous sans frais d'acquisition. De plus, étant open source, les utilisateurs peuvent contribuer à son développement et accéder au code source pour personnaliser le logiciel selon leurs besoins.
 
 ### Modélisation 3D avancée :
+
 Blender offre une suite complète d'outils de modélisation 3D, permettant aux utilisateurs de créer des environnements virtuels complexes pour leurs panoramas 360°. Ces outils incluent la modélisation polygonale, la sculpture, le texturage, l'éclairage et le rendu avancé.
 
 ### Rendu photoréaliste : 
+
 Avec son moteur de rendu Cycles, Blender est capable de produire des rendus photoréalistes de haute qualité. Cela permet aux utilisateurs de créer des panoramas 360° qui semblent réels et immersifs, avec des détails et des textures fins.
 
 ### Animation et interactivité : 
+
 Blender offre des outils d'animation puissants, ce qui permet aux utilisateurs de créer des panoramas 360° animés et interactifs. Ils peuvent ajouter des éléments animés tels que des personnages, des effets spéciaux et des transitions pour rendre leur panorama 360° encore plus captivant.
 
 ### Intégration de la réalité virtuelle (VR) : 
+
 Blender prend en charge l'exportation vers des formats compatibles VR, ce qui permet aux utilisateurs de créer des panoramas 360° qui peuvent être visualisés à l'aide de casques de réalité virtuelle. Cela offre une expérience immersive encore plus intense pour les spectateurs.
+
 
 ## Comment utiliser Blender dans la création de panoramas 360° :
 
+
 ### Modélisation de l'environnement :
+
 Utilisez les outils de modélisation de Blender pour créer l'environnement virtuel dans lequel votre panorama 360° sera situé. Cela peut inclure la modélisation de paysages, de bâtiments, d'objets et d'autres éléments nécessaires pour créer l'atmosphère souhaitée.
 
 ### Texturage et éclairage : 
+
 Appliquez des textures aux objets de votre scène et configurez l'éclairage pour créer l'ambiance souhaitée dans votre panorama 360°. Utilisez les fonctionnalités avancées de Blender pour ajuster les propriétés des matériaux et des lumières afin d'obtenir le résultat désiré.
 
 ### Rendu du panorama 360° : 
+
 Configurez la caméra de Blender pour capturer un panorama à 360 degrés de votre scène, puis utilisez le moteur de rendu de Blender pour générer l'image finale. Assurez-vous de configurer correctement les paramètres de rendu pour obtenir une résolution et une qualité d'image optimales.
 
 ### Exportation du panorama 360° :
+
 Exportez votre panorama 360° depuis Blender dans un format compatible, tel que l'image équirectangulaire. Vous pouvez ensuite utiliser des logiciels spécialisés ou des plateformes en ligne pour convertir votre image équirectangulaire en un panorama 360° interactif, prêt à être partagé et visualisé.
 
+
 ***En utilisant Blender de manière efficace et créative, vous pouvez créer des panoramas 360° impressionnants et immersifs qui captiveront votre public et enrichiront vos projets.***
+
 
 ## Crée un object sur Blender
 
@@ -398,8 +455,6 @@ Avec ce code, nous allons utiliser une classe personnalisée appelée "tang", qu
 
 Ensuite, nous créons des animations : une animation modifiera la couleur du texte du blanc au bleu, tandis que l'autre animation fera varier la taille du texte en l'agrandissant puis en le réduisant.
 
-
-
 Nous allons également consulter le site d'A-Frame pour obtenir des informations supplémentaires sur https://aframe.io/docs/1.5.0/components/text.html, qui nous donne des instructions complémentaires pour écrire du texte avec A-Frame.
 
 Ensuite, nous pouvons modifier certains paramètres dans le mode inspecteur qui nous permettront de personnaliser le texte, comme sa couleur, son alignement...
@@ -409,6 +464,7 @@ Ensuite, nous pouvons modifier certains paramètres dans le mode inspecteur qui 
 
 
 Sur la gauche, nous sélectionnons le texte, puis nous choisissons le menu "Text" à droite, qui nous permettra de modifier différentes options pour personnaliser le texte selon nos préférences. Une fois les modifications effectuées, nous pouvons ensuite copier le code de la même manière que précédemment.
+
 
 # [Partie 4 - Implémentation d'une vidéo](https://maximer37.github.io/VR-Markdown/guide1/partie4/index.html)
 
