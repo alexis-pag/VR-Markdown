@@ -205,29 +205,38 @@ Une fois que votre panorama 360° est assemblé et retouché, exportez-le dans l
 
 Tout d’abord, j’ai intégré un modèle (template) dans mon code, ce qui me permettra d’économiser du temps lors de la création de fonctions. Ensuite, j’ai créé une page JavaScript nommée `index.js`, qui me permettra d’utiliser des variables et des fonctions spécifiques à JavaScript. De plus, j’ai conçu deux pages HTML que j’ai rangées dans un dossier spécifique de l’arborescence : `./partie2/Pages-Index/default.html` et `./partie2/Pages-Index/1.html.` Dans ces fichiers index, vous trouverez du code pour insérer un objet, à savoir notre flèche, qui permettra de naviguer d’un panorama à l’autre.
 
-L'Inspecteur A-Frame Framework 1.5 offre plusieurs avantages essentiels pour la création de panoramas 360° :
+## L'Inspecteur A-Frame Framework 1.5 offre plusieurs avantages essentiels pour la création de panoramas 360° :
 
-Visualisation en Temps Réel : L'inspecteur permet de visualiser les changements apportés à la scène VR en temps réel, ce qui est particulièrement utile lors de la création de panoramas 360° pour s'assurer que chaque ajustement est conforme à la vision initiale du projet.
+### Visualisation en Temps Réel :
+L'inspecteur permet de visualiser les changements apportés à la scène VR en temps réel, ce qui est particulièrement utile lors de la création de panoramas 360° pour s'assurer que chaque ajustement est conforme à la vision initiale du projet.
 
-Débogage Facilité : Avec ses fonctionnalités de débogage avancées, l'inspecteur permet d'identifier et de corriger rapidement les éventuels problèmes dans la scène VR, garantissant ainsi une expérience sans faille pour les utilisateurs finaux.
+### Débogage Facilité :
+Avec ses fonctionnalités de débogage avancées, l'inspecteur permet d'identifier et de corriger rapidement les éventuels problèmes dans la scène VR, garantissant ainsi une expérience sans faille pour les utilisateurs finaux.
 
-Manipulation Intuitive : Grâce à une interface utilisateur conviviale, l'Inspecteur A-Frame Framework 1.5 permet de manipuler facilement les propriétés des entités VR, ce qui est essentiel pour ajuster les paramètres de la caméra et des éléments de la scène afin de créer un panorama 360° réaliste et immersif.
+### Manipulation Intuitive : 
+Grâce à une interface utilisateur conviviale, l'Inspecteur A-Frame Framework 1.5 permet de manipuler facilement les propriétés des entités VR, ce qui est essentiel pour ajuster les paramètres de la caméra et des éléments de la scène afin de créer un panorama 360° réaliste et immersif.
 
-Optimisation des Performances : En permettant d'inspecter et de modifier les éléments de la scène en détail, l'inspecteur facilite l'optimisation des performances des panoramas 360°, en veillant à ce que les ressources soient utilisées de manière efficiente et que l'expérience utilisateur soit fluide.
+### Optimisation des Performances : 
+En permettant d'inspecter et de modifier les éléments de la scène en détail, l'inspecteur facilite l'optimisation des performances des panoramas 360°, en veillant à ce que les ressources soient utilisées de manière efficiente et que l'expérience utilisateur soit fluide.
 
-Compatibilité et Portabilité : L'Inspecteur A-Frame Framework 1.5 est compatible avec une gamme de dispositifs et de navigateurs, ce qui garantit que les panoramas 360° créés avec cet outil peuvent être facilement partagés et expérimentés par un large public.
+### Compatibilité et Portabilité : 
+L'Inspecteur A-Frame Framework 1.5 est compatible avec une gamme de dispositifs et de navigateurs, ce qui garantit que les panoramas 360° créés avec cet outil peuvent être facilement partagés et expérimentés par un large public.
 
-Pour utiliser efficacement l'Inspecteur A-Frame Framework 1.5 dans la création de panoramas 360°, voici quelques étapes recommandées :
+## Pour utiliser efficacement l'Inspecteur A-Frame Framework 1.5 dans la création de panoramas 360°, voici quelques étapes recommandées :
 
-Planification et Conception : Avant de commencer la création du panorama 360°, définissez clairement votre vision et vos objectifs. Utilisez l'inspecteur pour esquisser et visualiser la disposition des éléments de la scène.
+### Planification et Conception : 
+Avant de commencer la création du panorama 360°, définissez clairement votre vision et vos objectifs. Utilisez l'inspecteur pour esquisser et visualiser la disposition des éléments de la scène.
 
-Construction de la Scène : Utilisez l'inspecteur pour ajouter et positionner les éléments de la scène, tels que les images panoramiques, les points d'intérêt et les zones interactives, en vous assurant que chaque élément contribue à l'immersion globale du panorama 360°.
+### Construction de la Scène :
+Utilisez l'inspecteur pour ajouter et positionner les éléments de la scène, tels que les images panoramiques, les points d'intérêt et les zones interactives, en vous assurant que chaque élément contribue à l'immersion globale du panorama 360°.
 
-Ajustements et Tests : Utilisez l'inspecteur pour ajuster les propriétés de la caméra et des éléments de la scène, en vous basant sur les retours visuels et les tests de navigation pour peaufiner chaque détail et optimiser l'expérience utilisateur.
+### Ajustements et Tests : 
+Utilisez l'inspecteur pour ajuster les propriétés de la caméra et des éléments de la scène, en vous basant sur les retours visuels et les tests de navigation pour peaufiner chaque détail et optimiser l'expérience utilisateur.
 
-Débogage et Optimisation : Utilisez les outils de débogage de l'inspecteur pour identifier et corriger les éventuels problèmes de performance ou d'affichage, en veillant à ce que le panorama 360° fonctionne de manière fluide sur tous les appareils et navigateurs compatibles.
+### Débogage et Optimisation : 
+Utilisez les outils de débogage de l'inspecteur pour identifier et corriger les éventuels problèmes de performance ou d'affichage, en veillant à ce que le panorama 360° fonctionne de manière fluide sur tous les appareils et navigateurs compatibles.
 
-En suivant ces étapes et en exploitant les fonctionnalités avancées de l'Inspecteur A-Frame Framework 1.5, vous serez en mesure de créer des panoramas 360° immersifs et captivants qui captiveront et engageront votre public cible.
+***En suivant ces étapes et en exploitant les fonctionnalités avancées de l'Inspecteur A-Frame Framework 1.5, vous serez en mesure de créer des panoramas 360° immersifs et captivants qui captiveront et engageront votre public cible.***
 
 
 ## Changer la couleur d'un object
