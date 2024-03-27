@@ -4,4 +4,4 @@
 
 ### Utilisation : 
 
-<img src="Image/utilisation.png" alt="Aplication VR Utilisation" height="auto" width="800">
+<img src="image/utilisation.png" alt="Aplication VR Utilisation" height="auto" width="800">
