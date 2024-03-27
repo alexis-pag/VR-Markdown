@@ -65,3 +65,17 @@ Ne pas utiliser de lunettes dans le casque : Évitez de porter des lunettes à l
 Éviter l'exposition à la lumière du jour et aux produits chimiques : Protégez votre casque VR en évitant de l'exposer directement à la lumière du soleil ou à des sources de chaleur excessive. De plus, gardez-le à l'abri des produits chimiques ou des liquides qui pourraient endommager ses composants électroniques.
 
 En prenant ces précautions et en étant conscient des risques potentiels, vous pouvez profiter pleinement de votre expérience de réalité virtuelle en toute sécurité. N'oubliez pas de consulter les instructions d'utilisation fournies avec votre équipement et de rester vigilant lors de chaque session de VR.
+
+## Utilisation de la VR en outils de pédagogique - SpeedRun en Melec4
+
+### Connecter le casque sur l'ordinateur 
+
+Premier etape allumer l'ordinateur: 
+
+<img src="image/boutonalim.jpg"alt="Bouton Alimentations Portable" height="auto" wigth="400">
+
+seconde etape est de deverouilller la session avec le code suivant: 8520. c'est le meme code pour les casque.
+
+Maintenant on va relier le pc au casque de realité virtuel pour sela on prend le bout du cable USB type C sur le coté gauche.
+
+
