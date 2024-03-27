@@ -72,11 +72,11 @@ En prenant ces précautions et en étant conscient des risques potentiels, vous 
 
 Premier etape allumer l'ordinateur: 
 
-<img src="image/boutonalim.jpg" alt="Bouton Alimentations Portable" height="auto" wigth="400">
+<img src="image/boutonalim.jpg" alt="Bouton Alimentations Portable" height="auto" width="400">
 
 seconde etape est de deverouilller la session avec le code suivant: 8520. c'est le meme code pour les casque.
 
 Maintenant on va relier le pc au casque de realité virtuel pour sela on prend le bout du cable USB type C sur le coté gauche.
 
-<img src="image/cableoculus.jpg" alt="Cable oculus" height="auto" widgh="400">
+<img src="image/cableoculus.jpg" alt="Cable oculus" height="auto" width="400">
 
