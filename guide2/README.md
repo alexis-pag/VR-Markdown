@@ -66,7 +66,7 @@ Ne pas utiliser de lunettes dans le casque : Évitez de porter des lunettes à l
 
 En prenant ces précautions et en étant conscient des risques potentiels, vous pouvez profiter pleinement de votre expérience de réalité virtuelle en toute sécurité. N'oubliez pas de consulter les instructions d'utilisation fournies avec votre équipement et de rester vigilant lors de chaque session de VR.
 
-## Utilisation de la VR en outils de pédagogique - SpeedRun en Melec4
+## Utilisation de la VR en outils de pédagogique - SpeedRun en Melec
 
 ### Connecter le casque sur l'ordinateur 
 
@@ -84,7 +84,7 @@ on peut allumer le casque avec le bouton de gauche.
 
 <img src="image/alimoculus.png" alt="Bouton alimentation Meta" height="auto" width="650">
 
-on va maintenant appliquer la procedure de meta pour definir une zone de jeu. pour cela une personne doit mettre le casque sur ca tete pour commencer la  procedure:
+on va maintenant appliquer la procedure de meta pour definir une zone de jeu. pour cela une personne doit mettre le casque sur ca tete pour commencer la  procedure:(image issue du casque)
 
 en premiere on va redefinir la zone: 
 
