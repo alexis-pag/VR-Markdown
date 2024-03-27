@@ -70,11 +70,11 @@ En prenant ces précautions et en étant conscient des risques potentiels, vous 
 
 ### Connecter le casque sur l'ordinateur 
 
-Premier etape allumer l'ordinateur: 
+Premier etape allumer l'ordinateur en appuyant sur le bouton alimentation en haut a droite du clavier: 
 
 <img src="image/boutonalim.png" alt="Bouton Alimentations Portable" height="auto" width="650">
 
-seconde etape est de deverouilller la session avec le code suivant: 8520. c'est le meme code pour les casque.
+seconde etape est de deverouilller la session avec le code suivant: 8520. (c'est le meme code pour les casque).
 
 Maintenant on va relier le pc au casque de realité virtuel pour sela on prend le bout du cable USB type C sur le coté gauche.
 
