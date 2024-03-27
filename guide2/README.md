@@ -50,14 +50,18 @@ Natron : Natron est un logiciel de compositing et de traitement d'images open-so
 
 ### ***AVERTISEMENT***: 
 
-Alors que la réalité virtuelle offre des expériences immersives et captivantes, il est essentiel de prendre conscience des dangers potentiels associés à son utilisation. Voici quelques points à garder à l'esprit pour garantir votre sécurité lors de l'exploration de ce monde numérique :
+Il est important de prendre conscience des dangers potentiels liés à l'utilisation de la réalité virtuelle (VR) afin de garantir une expérience sûre et agréable. Voici quelques points à considérer :
 
-Épilepsie : Certaines personnes peuvent être sensibles aux stimuli visuels intenses, ce qui peut déclencher des crises d'épilepsie photosensible lorsqu'elles sont exposées à des effets visuels rapides ou clignotants en réalité virtuelle. Pour éviter ce risque, il est recommandé d'utiliser des applications et des jeux qui limitent l'utilisation de ces effets et de faire des pauses fréquentes lors de sessions de réalité virtuelle prolongées.
+Épilepsie : Certaines personnes peuvent être sensibles aux stimulations visuelles intenses et rapides, ce qui peut déclencher des crises d'épilepsie. Il est essentiel de faire preuve de prudence en utilisant la VR, en particulier si vous avez des antécédents d'épilepsie ou si vous ressentez des symptômes tels que des étourdissements ou des nausées pendant l'utilisation.
 
-Distance de sécurité : Lorsque vous utilisez un casque de réalité virtuelle, assurez-vous de disposer d'un espace dégagé autour de vous pour éviter de vous heurter à des obstacles physiques. Éloignez-vous également des objets fragiles ou potentiellement dangereux pour éviter tout accident lors de vos déplacements dans le monde virtuel.
+Distances de sécurité : Assurez-vous de disposer d'un espace dégagé autour de vous lorsque vous utilisez la VR pour éviter de heurter des objets ou des personnes. Respectez les distances de sécurité recommandées par le fabricant du casque pour éviter tout accident ou dommage.
 
-Taille de la zone de jeu recommandée : Certains jeux et expériences en réalité virtuelle nécessitent une certaine quantité d'espace physique pour être pleinement appréciés. Assurez-vous de respecter les recommandations de taille de la zone de jeu pour éviter de vous sentir à l'étroit ou de risquer de vous blesser en vous déplaçant dans votre environnement réel.
+Taille de la zone de jeu recommandée : Pour une expérience optimale, utilisez la VR dans une zone de jeu suffisamment grande pour permettre une liberté de mouvement sans risque de collision. Assurez-vous que la zone est dégagée de tout obstacle potentiel et qu'elle offre un espace sûr pour bouger.
 
-Fragilité du matériel : Les équipements de réalité virtuelle, tels que les casques et les contrôleurs, peuvent être fragiles et sensibles aux chocs et aux chutes. Veillez à manipuler votre matériel avec précaution et à le ranger dans un endroit sûr lorsqu'il n'est pas utilisé pour éviter tout dommage accidentel.
+Fragilité du matériel : Les équipements de réalité virtuelle sont souvent délicats et peuvent être endommagés facilement en cas de chute ou de choc. Manipulez-les avec précaution et suivez les instructions du fabricant pour leur entretien et leur stockage appropriés.
 
-En restant conscients de ces dangers potentiels et en prenant des précautions appropriées, vous pouvez profiter en toute sécurité des merveilles de la réalité virtuelle. N'oubliez pas que votre bien-être et votre sécurité sont primordiaux, même dans le monde virtuel.
+Ne pas utiliser de lunettes dans le casque : Évitez de porter des lunettes à l'intérieur du casque de réalité virtuelle, car cela peut causer un inconfort et compromettre l'expérience immersive. Si vous portez des lunettes de correction, assurez-vous que le casque est compatible avec leur port ou envisagez d'utiliser des lentilles de contact.
+
+Éviter l'exposition à la lumière du jour et aux produits chimiques : Protégez votre casque VR en évitant de l'exposer directement à la lumière du soleil ou à des sources de chaleur excessive. De plus, gardez-le à l'abri des produits chimiques ou des liquides qui pourraient endommager ses composants électroniques.
+
+En prenant ces précautions et en étant conscient des risques potentiels, vous pouvez profiter pleinement de votre expérience de réalité virtuelle en toute sécurité. N'oubliez pas de consulter les instructions d'utilisation fournies avec votre équipement et de rester vigilant lors de chaque session de VR.
