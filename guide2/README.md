@@ -72,7 +72,7 @@ En prenant ces précautions et en étant conscient des risques potentiels, vous 
 
 Premier etape allumer l'ordinateur: 
 
-<img src="image/boutonalim.png" alt="Bouton Alimentations Portable" height="auto" width="550">
+<img src="image/boutonalim.png" alt="Bouton Alimentations Portable" height="auto" width="650">
 
 seconde etape est de deverouilller la session avec le code suivant: 8520. c'est le meme code pour les casque.
 
