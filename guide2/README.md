@@ -82,5 +82,14 @@ Maintenant on va relier le pc au casque de realité virtuel pour sela on prend l
 
 on peut allumer le casque avec le bouton de gauche.
 
-<img src="image/alimoculus.png" alt="Bouton alimentation Meta">
+<img src="image/alimoculus.png" alt="Bouton alimentation Meta" height="auto" width="650">
 
+on va maintenant appliquer la procedure de meta pour definir une zone de jeu. pour cela une personne doit mettre le casque sur ca tete pour commencer la  procedure:
+
+en premiere on va redefinir la zone: 
+
+<img src="image/oculus1.jpg" alt="Redefinir une zone de jeu" height="auto" width="650">
+
+puis on va definir le sol:
+
+<img src="image/oculus2.jpg" alt="definir le zone" height="auto" width="650">
