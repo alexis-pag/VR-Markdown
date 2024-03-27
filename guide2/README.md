@@ -78,5 +78,5 @@ seconde etape est de deverouilller la session avec le code suivant: 8520. (c'est
 
 Maintenant on va relier le pc au casque de realité virtuel pour sela on prend le bout du cable USB type C que l'on racorde a l'emplacement sur le coté gauche du casque.
 
-<img src="image/cableoculus.png" alt="Cable oculus" height="auto" width="400">
+<img src="image/cableoculus.png" alt="Cable oculus" height="auto" width="650">
 
