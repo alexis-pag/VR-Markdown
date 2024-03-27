@@ -50,8 +50,6 @@ Natron : Natron est un logiciel de compositing et de traitement d'images open-so
 
 ### ***AVERTISEMENT***: 
 
-Chers utilisateurs,
-
 Alors que la réalité virtuelle offre des expériences immersives et captivantes, il est essentiel de prendre conscience des dangers potentiels associés à son utilisation. Voici quelques points à garder à l'esprit pour garantir votre sécurité lors de l'exploration de ce monde numérique :
 
 Épilepsie : Certaines personnes peuvent être sensibles aux stimuli visuels intenses, ce qui peut déclencher des crises d'épilepsie photosensible lorsqu'elles sont exposées à des effets visuels rapides ou clignotants en réalité virtuelle. Pour éviter ce risque, il est recommandé d'utiliser des applications et des jeux qui limitent l'utilisation de ces effets et de faire des pauses fréquentes lors de sessions de réalité virtuelle prolongées.
