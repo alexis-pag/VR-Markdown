@@ -130,3 +130,40 @@ Une fois charger un menu va apparaitre pour demande de changer d'utilisateur
 C'est bon vous pouvez maintentant selectionner les differente activité que vous propose l'application avec les manettte du casque
 
 <img src="image/DEC/decfin.png" alt="DEC selectionner une activité" height="auto" width="650">
+
+### Créeation d'un utilisateur: 
+
+tout d'abord on selection en haut a gauche dans ***Application*** puis dans la section ***utilisateur*** on selectionne ***nouveau***
+
+<img src="image/DEC/decuser1.png" alt="DEC crée un utilisateur" height="auto" width="550">
+
+ensuite on peut rentre les coordonnées de l'eleve 
+
+<img src="image/DEC/decuser2.png" alt="DEC coordonnées de l'eleve" height="auto" width="550">
+
+une fois comfirmer un message va apparaitre en bas a droite
+
+<img src="image/DEC/decuser3.png" alt="DEC crée un utilisateur" height="auto" width="550">
+
+c'est bon l'eleve est crée et peux etre selectionner 
+
+
+### Créeation d'une classe: 
+
+tout d'abord on selection en haut a gauche dans ***Application*** puis dans la section ***Classe*** on selectionne ***nouveau***
+
+<img src="image/DEC/decclasse1.png" alt="DEC crée une classe" height="auto" width="550">
+
+ensuite on peut rentre un nom pour la classe 
+
+<img src="image/DEC/decclasse2.png" alt="DEC nom de la classe" height="auto" width="550">
+
+une fois comfirmer un message va apparaitre en bas a droite
+
+<img src="image/DEC/decclasse3.png" alt="DEC la classe est crée" height="auto" width="550">
+
+c'est bon la classe est crée et peux etre selectionner 
+
+### Utilisation d'un coompte enseignant 
+
+Vous trouverai des information relative a l'utilisation de l'interface  et du mode enseigant sur le site suivant: [Parametre d'activités généraux](https://vr.docs.decgroupe.com/applications/apprvhabi-userguide/common/activity_settings.html)
