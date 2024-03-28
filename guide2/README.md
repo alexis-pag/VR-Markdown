@@ -92,6 +92,7 @@ en premiere on va redefinir la zone:
 
 puis on va definir le sol:
 
+Pour ce faire, il vous suffit de toucher le sol avec l'une des deux manettes une fois que la hauteur du sol a été définie, ce qui vous permettra de poursuivre. 
 <img src="image/oculus2.jpg" alt="definir le zone" height="auto" width="550">
 
 selectionne stationnaire 
