@@ -110,3 +110,11 @@ Le casque vous redirigera automatiquement sur le pc
 Une fenetre va apparaitre sur l'ecran il faut la reduire la fenetre oculus, pour cela on clique sur la barre
 
 <img src="image/oculus/fenetreoculus.png" alt="Fenetre oculus a reduire" height="auto" width="650">
+
+on va  maintenant parametrer l'application DEC pour que le casque se connecte, pour cela en haut a droite on selectionne clasique et un menu deroulant va apparaitre et on peut selectionner Rift / Oculus Link 
+
+<img src="image/DEC/decoculus.png" alt="DEC Oculus" height="auto" width="650">
+
+maintenant on peut lancer l'application ***Habilitation électrique*** 
+
+<img src="image/DEC/declancement.png" alt="DEC Lancement de L'application" height="auto" width="650">
