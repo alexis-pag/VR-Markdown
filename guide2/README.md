@@ -127,6 +127,6 @@ Une fois charger un menu va apparaitre pour demande de changer d'utilisateur
 
 <img src="image/DEC/decutilisateur.png" alt="DEC Changer Utilisateur" height="auto" width="650">
 
-C'est bon vous pouvez maintentant selectionner les differente activité que vous propose l'application
+C'est bon vous pouvez maintentant selectionner les differente activité que vous propose l'application avec les manettte du casque
 
 <img src="image/DEC/decfin.png" alt="DEC selectionner une activité" height="auto" width="650">
