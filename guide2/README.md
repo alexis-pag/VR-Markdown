@@ -106,3 +106,7 @@ puis  maintenant on peut comfirmer
 <img src="image/oculus4.jpg" alt="Comfirmer  Stationnaire" height="auto" width="450">
 
 Le casque vous redirigera automatiquement sur le pc
+
+Une fenetre va apparaitre sur l'ecran il faut la reduire la fenetre oculus, pour cela on clique sur la barre
+
+<img src="image/fenetreoculus.png" alt="Fenetre oculus a reduire" height="auto" width="450">
