@@ -88,21 +88,21 @@ on va maintenant appliquer la procedure de meta pour definir une zone de jeu. po
 
 en premiere on va redefinir la zone: 
 
-<img src="image/oculus1.jpg" alt="Redefinir une zone de jeu" height="auto" width="550">
+<img src="image/oculus1.jpg" alt="Redefinir une zone de jeu" height="auto" width="450">
 
 puis on va definir le sol:
 
 Pour ce faire, il vous suffit de toucher le sol avec l'une des deux manettes une fois que la hauteur du sol a été définie, ce qui vous permettra de poursuivre.
 
 
-<img src="image/oculus2.jpg" alt="definir le zone" height="auto" width="550">
+<img src="image/oculus2.jpg" alt="definir le zone" height="auto" width="450">
 
 selectionne stationnaire 
 
-<img src="image/oculus3.jpg" alt="Stationnaire" height="auto" width="550">
+<img src="image/oculus3.jpg" alt="Stationnaire" height="auto" width="450">
 
 puis  maintenant on peut comfirmer
 
-<img src="image/oculus4.jpg" alt="Comfirmer  Stationnaire" height="auto" width="550">
+<img src="image/oculus4.jpg" alt="Comfirmer  Stationnaire" height="auto" width="450">
 
 Le casque vous redirigera automatiquement sur le pc
