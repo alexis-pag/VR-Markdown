@@ -118,3 +118,12 @@ on va  maintenant parametrer l'application DEC pour que le casque se connecte, p
 maintenant on peut lancer l'application ***Habilitation électrique*** 
 
 <img src="image/DEC/declancement.png" alt="DEC Lancement de L'application" height="auto" width="650">
+
+Il est probable que le message si desous aparaisse, il signifie qui va  vous rediriger ver l'application 
+
+<img src="image/DEC/declancement2.png" alt="DEC message redirection" height="auto" width="650">
+
+Une fois charger un menu va apparaitre pour demande de changer d'utilisateur 
+
+<img src="image/DEC/decutilisateur.png" alt="DEC Changer Utilisateur" height="auto" width="650">
+
