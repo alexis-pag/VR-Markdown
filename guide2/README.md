@@ -64,6 +64,8 @@ Ne pas utiliser de lunettes dans le casque : Évitez de porter des lunettes à l
 
 Éviter l'exposition à la lumière du jour et aux produits chimiques : Protégez votre casque VR en évitant de l'exposer directement à la lumière du soleil ou à des sources de chaleur excessive. De plus, gardez-le à l'abri des produits chimiques ou des liquides qui pourraient endommager ses composants électroniques.
 
+La confidentialité des informations est cruciale lors de l'utilisation de la réalité virtuelle, car des mots de passe et d'autres données sensibles peuvent être présents dans la documentation technique. Il est essentiel que les enseignants surveillent attentivement les élèves pendant les sessions pour éviter tout accès non autorisé à ces informations sensibles.
+
 En prenant ces précautions et en étant conscient des risques potentiels, vous pouvez profiter pleinement de votre expérience de réalité virtuelle en toute sécurité. N'oubliez pas de consulter les instructions d'utilisation fournies avec votre équipement et de rester vigilant lors de chaque session de VR.
 
 ## Utilisation de la VR en outils de pédagogique - SpeedRun en Melec
