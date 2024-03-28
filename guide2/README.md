@@ -4,7 +4,7 @@
 
 ### Utilisation : 
 
-<img src="image/utilisation.png" alt="Aplication VR Utilisation" height="auto" width="500">
+<img src="image/autre/utilisation.png" alt="Aplication VR Utilisation" height="auto" width="500">
 
 Voici les logiciels installés sur l'ordinateur fixe qui sont nécessaires pour utiliser le casque VR.
 
@@ -23,7 +23,7 @@ Firefox: Le but principal de Firefox est de fournir un navigateur web sécurisé
 
 ### Creation:
 
-<img src="image/creation.png" alt="Aplication VR Creation" height="auto" width="500">
+<img src="image/autre/creation.png" alt="Aplication VR Creation" height="auto" width="500">
 
 Voici les logiciels qui permettent de créer des environnements de réalité virtuelle. 
 
@@ -72,23 +72,23 @@ En prenant ces précautions et en étant conscient des risques potentiels, vous 
 
 Premier etape allumer l'ordinateur en appuyant sur le bouton alimentation en haut a droite du clavier: 
 
-<img src="image/boutonalim.png" alt="Bouton Alimentations Portable" height="auto" width="650">
+<img src="image/autre/boutonalim.png" alt="Bouton Alimentations Portable" height="auto" width="650">
 
 seconde etape est de deverouilller la session avec le code suivant: 8520. (c'est le meme code pour les casque).
 
 Maintenant on va relier le pc au casque de realité virtuel pour sela on prend le bout du cable USB type C que l'on racorde a l'emplacement sur le coté droit du casque.
 
-<img src="image/cableoculus.png" alt="Cable Meta" height="auto" width="650">
+<img src="image/oculus/cableoculus.png" alt="Cable Meta" height="auto" width="650">
 
 on peut allumer le casque avec le bouton de gauche.
 
-<img src="image/alimoculus.png" alt="Bouton alimentation Meta" height="auto" width="650">
+<img src="image/oculus/alimoculus.png" alt="Bouton alimentation Meta" height="auto" width="650">
 
 on va maintenant appliquer la procedure de meta pour definir une zone de jeu. pour cela une personne doit mettre le casque sur ca tete pour commencer la  procedure:(image issue du casque)
 
 en premiere on va redefinir la zone: 
 
-<img src="image/oculus1.jpg" alt="Redefinir une zone de jeu" height="auto" width="450">
+<img src="image/oculus/oculus1.jpg" alt="Redefinir une zone de jeu" height="auto" width="450">
 
 puis on va definir le sol:
 
