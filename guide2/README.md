@@ -169,3 +169,5 @@ c'est bon la classe est crée et peux etre selectionner
 ### Utilisation d'un coompte enseignant 
 
 Vous trouverai des information relative a l'utilisation de l'interface  et du mode enseigant sur le site suivant: [Parametre d'activités généraux](https://vr.docs.decgroupe.com/applications/apprvhabi-userguide/common/activity_settings.html)
+
+## Mise en place du mode mise en mirroir
