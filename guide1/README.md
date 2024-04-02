@@ -13,7 +13,7 @@
 # Création de visites virtuelles et contenus pédagogiques en VR libres et gratuits
 
 
-## Objectif du document:
+## Objectif du document
 Ce document a pour objectif d'expliquer comment créer et mettre en ligne des visites virtuelles incluant des éléments pédagogiques diversifiés. La technologie utilisée sera entièrement gratuite et sous licence libre - y inclut l'hebergement. Cette technologie doit permettre une navigation compatible avec les spécificités de multiples appareils, y inclut la navigation en VR.
 
 Ce document inclut toutes les étapes de la réalisation, des prises de vue à l'édition du code en passant par l'hébergement. Le tout a pour objectif d'être écrit de la manière la plus simple et didactique possible, en procédant étape par étape.
@@ -63,7 +63,7 @@ En exterieur, des outils comme google earth sont particulièrement utiles.
 L'importation des images est le moment ideal pour mofier la résolution  modifier la resolution de l'image de 2880 pixel par 1440 pixel avec le logiciel de la caméra puis j'ai flouté le visage pour par la suite les importer 
 
 
-## Création d’un compte GitHub :
+## Création d’un compte GitHub
 
 Pour commencer à utiliser GitHub, vous devez créer un compte personnel gratuit sur GitHub.com.
 
@@ -72,7 +72,7 @@ Suivez les indications pour créer votre compte personnel Assurez-vous d’utili
 Vérifiez votre adresse e-mail lors de l’inscription. Sans adresse e-mail vérifiée, certaines tâches de base sur GitHub, comme la création d’un référentiel, ne seront pas possibles.
 
 
-### Création d’un dépôt pour votre site :
+### Création d’un dépôt pour votre site
 
 
 Vous pouvez créer un nouveau dépôt ou utiliser un dépôt existant pour votre site.
@@ -92,7 +92,7 @@ Cochez l’option “Initialize this repository with a README” (Initialiser ce
 Cliquez sur “Créer le dépôt”.
 
 
-### Création de votre site :
+### Création de votre site
 
 
 Accédez au dépôt de votre site sur GitHub.
@@ -175,25 +175,24 @@ En résumé, ce code crée une scène de réalité virtuelle avec un ciel textur
 <img src="partie2/resources/image/panorama1.jpg" alt="premier panorama" height="auto" width="850">
 
 
-## GIMP :
+## GIMP - un couteau suisse de l'image pour préparer les panoramas
 
 GIMP est accessible gratuitement, ce qui en fait un outil économique pour les artistes et les créateurs. GIMP offre une gamme complète d'outils de retouche d'images, y compris des outils de peinture, de sélection, de correction des couleurs, de clonage, de transformation et bien d'autres encore. Cette diversité d'outils permet aux utilisateurs de réaliser une grande variété de tâches de retouche et de manipulation d'images, y compris la création de panoramas 360°.
 
-### Préparation des images :
+### Importation des images
 
 Importez toutes les images composant vos panoramas 360° dans GIMP au formmat JPEG et aux dimensions 2880 x 1440.
 
-### Réglages et corrections :
+### Réglages et corrections
 
 Effectuez des ajustements de couleur, de contraste et de netteté pour harmoniser les différents panoramas 360°. Vous pouvez également utiliser des outils de retouche pour éliminer les imperfections ou les éléments indésirables de certaines image.
 
-### Exportation du panorama :
+### Exportation de panoramas
 
 Une fois que votre panorama 360° est retouché, exportez-le dans le format JPEG, avec une qualité moyenne. Assurez-vous de choisir un format d'image compatible avec les plateformes ou les appareils sur lesquels vous prévoyez de partager votre panorama.
 
 
 # [Partie 2 - Navigation entre deux panorama 360](https://maximer37.github.io/VR-Markdown/guide1/partie2/index.html)
-
 
 <img src="partie2/resources/image/panorama2.jpg" alt="premier panorama" height="auto" width="850">
 
