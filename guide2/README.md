@@ -1,4 +1,6 @@
-# Les *tutoriels de Maxime* Utilisation et configuration du casque Meta quest 2 dans un cadre scolaire 
+Les *petits tutoriels de Maxime*
+
+# Utilisation et configuration du casque Meta quest 2 dans un cadre scolaire 
 
 ## Presentation de la plateforme et des logiciels 
 
