@@ -173,7 +173,7 @@ Vous trouverai des information relative a l'utilisation de l'interface  et du mo
 
 ***Matériel nécéssaire:***
 
-Un ordinateur répondant aux spécifications requises.:[specification](https://www.meta.com/fr-fr/help/quest/articles/headsets-and-accessories/oculus-link/requirements-quest-link/)
+Un ordinateur répondant aux spécifications requises: [specification](https://www.meta.com/fr-fr/help/quest/articles/headsets-and-accessories/oculus-link/requirements-quest-link/)
 
 Un câble USB de type-C vers USB de type-A en version 3.0.
 
