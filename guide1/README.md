@@ -1,8 +1,8 @@
-|Le Corlab présente Les *petits tutoriels de Maxime* |
-|------|
+|Le Corlab présente Les *petits tutoriels de Maxime* | <img src="partie2/resources/image/SEAL.jpg" height="150" width="150">
+|------|------|
 |Date: **Avril 2024** |
 |Version: **1** |
-|Auteur principal: **Maxime Renauld**, élève en TPRO SN RISC au lycée Louis de Cormontaigne, Metz |
+|Auteur principal: **Maxime Renauld**, élève en TPRO SN RISC au lycée Louis de Cormontaigne, Metz | 
 |Programmation javascipt: **Yanis Maafa**, élève en TPRO SN SSIHT au lycée Louis de Cormontaigne, Metz |
 |Validation/Direction: **Matthieu Farcot** |
 |Relecture: **Solene Mvutu Mbeya**, élève en TPRO SN RISC au lycée Louis de Cormontaigne, Metz |
@@ -11,6 +11,7 @@
 | Document sous licence **CC-BY-4.0** |
 
 # Création de visites virtuelles et contenus pédagogiques en VR libres et gratuits
+
 
 
 ## Objectif du document
