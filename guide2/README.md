@@ -202,4 +202,4 @@ Ensuite, choisissez ***Beta Cast***.
 
 ### Mise en miroir avec une connexion WI-FI 
 
-Pour configurer le mode miroir sur votre Meta Quest 2 avec un ordinateur, un Chromecast ou un téléphone, veuillez suivre la procédure détaillée sur le site officiel de Meta:[Mise en miroir](https://www.meta.com/fr-fr/help/quest/articles/in-vr-experiences/oculus-features/cast-with-quest/)
+Pour configurer le mode miroir sur votre Meta Quest 2 avec un ordinateur, un Chromecast ou un téléphone, veuillez suivre la procédure détaillée sur le site officiel de Meta: [Mise en miroir](https://www.meta.com/fr-fr/help/quest/articles/in-vr-experiences/oculus-features/cast-with-quest/)
