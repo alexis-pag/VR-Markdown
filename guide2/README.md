@@ -18,7 +18,7 @@ Nous présenterons dans cette section les logiciels *d'utilisation* et les logic
 
 ### Logiciels d'utilisation : 
 
-<img src="image/autre/utilisation.png" alt="Aplication VR Utilisation" height="auto" width="500">
+<img src="image/autre/utilisation.png" alt="Aplication VR Utilisation" height="auto" width="350">
 
 Voici les logiciels installés sur l'ordinateur fixe qui sont nécessaires pour utiliser le casque VR.
 
