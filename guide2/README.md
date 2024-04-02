@@ -73,6 +73,10 @@ Il est important de prendre conscience des dangers potentiels liés à l'utilisa
 
 **Exposition à la lumière du jour et aux produits chimiques** : Protégez votre casque VR en évitant de l'exposer directement à la lumière du soleil ou à des sources de chaleur excessive. De plus, gardez-le à l'abri des produits chimiques ou des liquides qui pourraient endommager ses composants électroniques.
 
+**Hygiène** : Puisque plusieurs utilisateurs peuvent partager le même casque VR, il est important de maintenir une bonne hygiène en nettoyant régulièrement les lentilles et les surfaces du casque avec des lingettes désinfectantes appropriées.
+
+**Installation d'applications externes et vérification de la provenance** : Évitez d'installer des applications provenant de sources non fiables ou inconnues, car elles pourraient contenir des logiciels malveillants ou compromettre la sécurité de votre appareil. Assurez-vous de télécharger uniquement des applications à partir de magasins d'applications officiels et de vérifier les avis et les commentaires avant l'installation.
+
 La confidentialité des informations est cruciale lors de l'utilisation de la réalité virtuelle, car des mots de passe et d'autres données sensibles peuvent être présents dans la documentation technique. Il est essentiel que les enseignants surveillent attentivement les élèves pendant les sessions pour éviter tout accès non autorisé à ces informations sensibles.
 
 En prenant ces précautions et en étant conscient des risques potentiels, vous pouvez profiter pleinement de votre expérience de réalité virtuelle en toute sécurité. N'oubliez pas de rester vigilant lors de chaque session de VR.
