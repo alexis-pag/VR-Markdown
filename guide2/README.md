@@ -75,7 +75,7 @@ Il est important de prendre conscience des dangers potentiels liés à l'utilisa
 
 **Hygiène** : Puisque plusieurs utilisateurs peuvent partager le même casque VR, il est important de maintenir une bonne hygiène en nettoyant régulièrement les lentilles et les surfaces du casque avec des lingettes désinfectantes appropriées.
 
-**Installation d'applications externes et vérification de la provenance** : Évitez d'installer des applications provenant de sources non fiables ou inconnues, car elles pourraient contenir des logiciels malveillants ou compromettre la sécurité de votre appareil. Assurez-vous de télécharger uniquement des applications à partir de magasins d'applications officiels et de vérifier les avis et les commentaires avant l'installation.
+Il est crucial de comprendre que ces casques sont destinés au grand public, ce qui signifie que les élèves peuvent facilement installer des applications depuis l'App Store et accéder à des sites internet qui ne sont pas liés à l'utilisation prévue des casques VR.
 
 La confidentialité des informations est cruciale lors de l'utilisation de la réalité virtuelle, car des mots de passe et d'autres données sensibles peuvent être présents dans la documentation technique. Il est essentiel que les enseignants surveillent attentivement les élèves pendant les sessions pour éviter tout accès non autorisé à ces informations sensibles.
 
