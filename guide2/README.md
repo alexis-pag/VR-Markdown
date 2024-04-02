@@ -68,128 +68,128 @@ La confidentialité des informations est cruciale lors de l'utilisation de la r�
 
 En prenant ces précautions et en étant conscient des risques potentiels, vous pouvez profiter pleinement de votre expérience de réalité virtuelle en toute sécurité. N'oubliez pas de consulter les instructions d'utilisation fournies avec votre équipement et de rester vigilant lors de chaque session de VR.
 
-## Utilisation de la VR en outils de pédagogique - SpeedRun en Melec
+## Utilisation de la VR en outils de pédagogique
 
-### Connecter le casque sur l'ordinateur 
+### Connectez le casque à l'ordinateur.
 
-Premier etape allumer l'ordinateur en appuyant sur le bouton alimentation en haut a droite du clavier: 
+Pour commencer, allumez l'ordinateur en appuyant sur le bouton d'alimentation situé en haut à droite du clavier.
 
 <img src="image/autre/boutonalim.png" alt="Bouton Alimentations Portable" height="auto" width="650">
 
-seconde etape est de deverouilller la session avec le code suivant: 8520. (c'est le meme code pour les casque).
+La deuxième étape consiste à déverrouiller la session avec le code suivant : 8520. Ce code est le même pour tous les casques.
 
-Maintenant on va relier le pc au casque de realité virtuel pour sela on prend le bout du cable USB type C que l'on racorde a l'emplacement sur le coté droit du casque.
+Maintenant, nous allons connecter le PC au casque de réalité virtuelle. Pour ce faire, prenez l'extrémité du câble USB de type C et branchez-la dans le port situé sur le côté droit du casque.
 
 <img src="image/oculus/cableoculus.png" alt="Cable Meta" height="auto" width="650">
 
-on peut allumer le casque avec le bouton de gauche.
+Vous pouvez activer le casque en utilisant le bouton situé sur le côté gauche.
 
 <img src="image/oculus/alimoculus.png" alt="Bouton alimentation Meta" height="auto" width="650">
 
-on va maintenant appliquer la procedure de meta pour definir une zone de jeu. pour cela une personne doit mettre le casque sur ca tete pour commencer la  procedure:(image issue du casque)
+Maintenant, nous allons suivre la procédure de Meta pour définir une zone de jeu. Pour cela, une personne doit mettre le casque sur sa tête pour démarrer la procédure. (Image tirée du casque)
 
-en premiere on va redefinir la zone: 
+Tout d'abord, nous allons redéfinir la zone.
 
 <img src="image/oculus/oculus1.jpg" alt="Redefinir une zone de jeu" height="auto" width="450">
 
-puis on va definir le sol:
-
-Pour ce faire, il vous suffit de toucher le sol avec l'une des deux manettes une fois que la hauteur du sol a été définie, ce qui vous permettra de poursuivre.
-
+Ensuite, définissez le niveau sol en touchant le sol avec l'une des deux manettes. Une fois que le niveau du sol est définie, vous pourrez continuer.
 
 <img src="image/oculus/oculus2.jpg" alt="definir le zone" height="auto" width="450">
 
-selectionne stationnaire 
+Choisissez l'option "Stationnaire".
 
 <img src="image/oculus/oculus3.jpg" alt="Stationnaire" height="auto" width="450">
 
-puis  maintenant on peut comfirmer
+Ensuite, vous pouvez confirmer votre choix.
 
 <img src="image/oculus/oculus4.jpg" alt="Comfirmer  Stationnaire" height="auto" width="450">
 
-Le casque vous redirigera automatiquement sur le pc
+Le casque vous dirigera automatiquement vers l'ordinateur.
 
-Une fenetre va apparaitre sur l'ecran il faut la reduire la fenetre oculus, pour cela on clique sur la barre
+Une fenêtre apparaîtra à l'écran. Pour la réduire, il suffit de cliquer sur la barre correspondante.
 
 <img src="image/oculus/fenetreoculus.png" alt="Fenetre oculus a reduire" height="auto" width="650">
 
-on va  maintenant parametrer l'application DEC pour que le casque se connecte, pour cela en haut a droite on selectionne clasique et un menu deroulant va apparaitre et on peut selectionner Rift / Oculus Link 
+Maintenant, nous allons configurer l'application DEC pour que le casque se connecte. Pour cela, dans le coin supérieur droit, sélectionnez "Classique", puis un menu déroulant apparaîtra où vous pouvez choisir "Rift / Oculus Link".
 
 <img src="image/DEC/decoculus.png" alt="DEC Oculus" height="auto" width="650">
 
-maintenant on peut lancer l'application ***Habilitation électrique*** 
+Maintenant, vous pouvez démarrer l'application.***Habilitation électrique*** 
 
 <img src="image/DEC/declancement.png" alt="DEC Lancement de L'application" height="auto" width="650">
 
-Il est probable que le message si desous aparaisse, il signifie qui va  vous rediriger ver l'application 
+Il est possible que vous rencontriez le message ci-dessous, indiquant qu'il vous redirigera vers l'application.
 
 <img src="image/DEC/declancement2.png" alt="DEC message redirection" height="auto" width="650">
 
-Une fois charger un menu va apparaitre pour demande de changer d'utilisateur 
+Une fois chargé, un menu apparaîtra pour demander le changement d'utilisateur.
 
 <img src="image/DEC/decutilisateur.png" alt="DEC Changer Utilisateur" height="auto" width="650">
 
-C'est bon vous pouvez maintentant selectionner les differente activité que vous propose l'application avec les manettte du casque
+C'est fait ! Vous pouvez maintenant choisir parmi les différentes activités proposées par l'application en utilisant les manettes du casque.
 
 <img src="image/DEC/decfin.png" alt="DEC selectionner une activité" height="auto" width="650">
 
 ### Créeation d'un utilisateur: 
 
-tout d'abord on selection en haut a gauche dans ***Application*** puis dans la section ***utilisateur*** on selectionne ***nouveau***
+Tout d'abord, commencez par sélectionner ***Application*** en haut à gauche, puis dans la section ***Utilisateur*** , choisissez ***Nouveau***.
+
 
 <img src="image/DEC/decuser1.png" alt="DEC crée un utilisateur" height="auto" width="550">
 
-ensuite on peut rentre les coordonnées de l'eleve 
+Ensuite, vous pouvez saisir les coordonnées de l'élève.
 
 <img src="image/DEC/decuser2.png" alt="DEC coordonnées de l'eleve" height="auto" width="550">
 
-une fois comfirmer un message va apparaitre en bas a droite
+Une fois confirmé, un message s'affichera dans le coin inférieur droit de l'écran.
 
 <img src="image/DEC/decuser3.png" alt="DEC crée un utilisateur" height="auto" width="550">
 
-c'est bon l'eleve est crée et peux etre selectionner 
+C'est terminé, l'élève a été créé et peut maintenant être sélectionné.
 
 
 ### Créeation d'une classe: 
 
-tout d'abord on selection en haut a gauche dans ***Application*** puis dans la section ***Classe*** on selectionne ***nouveau***
+Tout d'abord, commencez par sélectionner ***Application*** en haut à gauche, puis dans la section ***Classe*** , choisissez ***Nouveau***.
 
 <img src="image/DEC/decclasse1.png" alt="DEC crée une classe" height="auto" width="550">
 
-ensuite on peut rentre un nom pour la classe 
+Ensuite, vous pouvez saisir un nom pour la classe.
 
 <img src="image/DEC/decclasse2.png" alt="DEC nom de la classe" height="auto" width="550">
 
-une fois comfirmer un message va apparaitre en bas a droite
+Une fois confirmé, un message apparaîtra dans le coin inférieur droit.
 
 <img src="image/DEC/decclasse3.png" alt="DEC la classe est crée" height="auto" width="550">
 
-c'est bon la classe est crée et peux etre selectionner 
+La classe est maintenant créée et peut être sélectionnée.
 
-### Utilisation d'un coompte enseignant 
+### Utilisation d'un compte destiné aux enseignants.
 
 Vous trouverai des information relative a l'utilisation de l'interface  et du mode enseigant sur le site suivant: [Parametre d'activités généraux](https://vr.docs.decgroupe.com/applications/apprvhabi-userguide/common/activity_settings.html)
 
-## Mise en place du mode mise en mirroir
-### Mise en miroir avec le casque relier a un ordinateur
+## Configuration du mode de mise en miroir.
+### La mise en miroir avec le casque connecté à un ordinateur.
 
 ***Matériel nécéssaire:***
 
-un ordinateur avec le specification requise:[specification](https://www.meta.com/fr-fr/help/quest/articles/headsets-and-accessories/oculus-link/requirements-quest-link/)
+Un ordinateur répondant aux spécifications requises.:[specification](https://www.meta.com/fr-fr/help/quest/articles/headsets-and-accessories/oculus-link/requirements-quest-link/)
 
-Un cable usb type-C vers un usb type-A en 3.0 
+Un câble USB de type-C vers USB de type-A en version 3.0.
 
-Un casque Meta Quest 2 
+Un casque Meta Quest 2.
 
-premiere etape sur le bureau virtuel de l'ordinateur en haut a droite on va selectionner ***Meta Quest Developer Hub*** 
+***Procedure***
 
+La première étape consiste à sélectionner ***Meta Quest Developer Hub*** dans le coin supérieur droit du bureau virtuel de l'ordinateur.
+ 
 <img src="image/autre/utilisation2.png" alt="Selectionner l'application Meta Quest Developer Hub" height="auto" width="500">
 
-une fois lancer l'application lancer on peut selectionner dans le menu a gauche ***Device Management***
+Une fois que l'application est lancée, vous pouvez accéder au menu de gauche et sélectionner ***Device Management***.
 
 <img src="image/oculus/mqdh1.png" alt="Selectioner dans le menu: Device Management" height="auto" width="700" >
 
-apres selectionner ***Beta Cast*** 
+Ensuite, choisissez ***Beta Cast***.
 
 <img src="image/oculus/mqdh2.png" alt="Selectionner Beta Cast" height="auto" width="700">
 
