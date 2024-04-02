@@ -103,6 +103,12 @@ Maintenant, nous allons connecter le PC au casque de réalité virtuelle. Pour c
 
 <img src="image/oculus/cableoculus.png" alt="Cable Meta" height="auto" width="650">
 
+après on peut faire passer le cable de l'ordinateur entre la baterie arriere et le caoutchouc 
+
+<img src="image/oculus/oculushaut.jpg" alt="oculushaut" height="auto" width="450">
+
+<img src="image/oculus/oculusbas.jpg" alt="oculusbas" height="auto" width="450">
+
 Vous pouvez activer le casque en utilisant le bouton situé sur le côté gauche.
 
 <img src="image/oculus/alimoculus.png" alt="Bouton alimentation Meta" height="auto" width="650">
