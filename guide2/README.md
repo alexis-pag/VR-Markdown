@@ -152,7 +152,7 @@ C'est terminé, l'élève a été créé et peut maintenant être sélectionné.
 
 Tout d'abord, commencez par sélectionner ***Application*** en haut à gauche, puis dans la section ***Classe*** , choisissez ***Nouveau***.
 
-<img src="image/DEC/decclasse1.png" alt="DEC crée une classe" height="auto" width="550">
+<img src="image/DEC/decclasse.png" alt="DEC crée une classe" height="auto" width="550">
 
 Ensuite, vous pouvez saisir un nom pour la classe.
 
