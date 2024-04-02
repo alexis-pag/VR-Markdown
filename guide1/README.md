@@ -43,6 +43,8 @@ Dans notre cadre, nous allons réaliser une viste virtuelle simple du terrain de
 
 Ceci explique l'importance d'une reflexion en amont, afin d'être sûr d'avoir toutes les images requises. Prendre une prise de vue manquante dans un deuxième temps risque expose l'opération à des changement brutaux de conditions de navigation (lumière ou météo différente par exemple) qui vont nuire à l'immersion.
 
+Attention en particulier aux épineuses questions de droits à l'image et des conséquences potentielles au niveau du RGPD. Il peut être utile de demander aux personnes ne souhaitant pas être visibles sur le panorama de sortir du champ de la caméra.
+
 ## Matériel nécéssaire
 
 - Une caméra 360° (nous utiliserons une caméra Insta 360 pour cet exemple). 
@@ -60,9 +62,23 @@ En exterieur, des outils comme google earth sont particulièrement utiles.
 
 ![plannification](<partie2/resources/image/plan.jpg>)
 
-L'importation des images est le moment ideal pour mofier la résolution  modifier la resolution de l'image de 2880 pixel par 1440 pixel avec le logiciel de la caméra puis j'ai flouté le visage pour par la suite les importer 
+L'importation des images est le moment ideal pour modifier la résolution en 2880 pixel par 1440 pixel avec le logiciel de la caméra. Pour flouter les visages (question de droits à l'image), nous allons utiliser GIMP.
 
+## GIMP - un couteau suisse de l'image pour préparer les panoramas
 
+GIMP est accessible gratuitement, ce qui en fait un outil économique pour les artistes et les créateurs. GIMP offre une gamme complète d'outils de retouche d'images, y compris des outils de peinture, de sélection, de correction des couleurs, de clonage, de transformation et bien d'autres encore. Cette diversité d'outils permet aux utilisateurs de réaliser une grande variété de tâches de retouche et de manipulation d'images, y compris la création de panoramas 360°.
+
+### Importation des images
+
+Importez toutes les images composant vos panoramas 360° dans GIMP au formmat JPEG et aux dimensions 2880 x 1440.
+
+### Réglages et corrections
+
+Effectuez des ajustements de couleur, de contraste et de netteté pour harmoniser les différents panoramas 360°. Vous pouvez également utiliser des outils de retouche pour éliminer les imperfections ou les éléments indésirables de certaines image.
+
+### Exportation de panoramas
+
+Une fois que votre panorama 360° est retouché, exportez-le dans le format JPEG, avec une qualité moyenne. Assurez-vous de choisir un format d'image compatible avec les plateformes ou les appareils sur lesquels vous prévoyez de partager votre panorama.
 ## Création d’un compte GitHub
 
 Pour commencer à utiliser GitHub, vous devez créer un compte personnel gratuit sur GitHub.com.
@@ -112,9 +128,9 @@ Votre site sera accessible via l’URL https://<votre-nom-d'utilisateur>.github.
 
 Remarque : Les sites GitHub Pages sont disponibles publiquement sur Internet, même si leur dépôt est privé. Assurez-vous de ne pas inclure de données sensibles dans votre dépôt avant la publication
 
+### Création de la page html pour le panorama
 
-
-on va utiliser le code suivant pour importer l'image 360 sur le navigateur:
+Nous allons utiliser le code suivant pour importer l'image 360 sur le navigateur:
 
 ```html
 <!DOCTYPE html>
@@ -131,7 +147,7 @@ on va utiliser le code suivant pour importer l'image 360 sur le navigateur:
 ```
 *... et c'est tout!*
 
-Nous créons donc un document html à la racine de notre compte Github intitullé index.html
+Nous enregistrons ce document html à la racine de notre compte Github et l'intitullons index.html.
 
 ## Explication du code
 
@@ -163,33 +179,15 @@ Ce code est un exemple simple d’une page Web qui utilise la bibliothèque Java
 
 `<a-sky src="#panorama-image"></a-sky>` crée le panorama en utilisant l’image que vous avez définie. Il utilise l’ID de l’image comme source.
 
-N’oublie pas de remplacer "chemin_vers_votre_image.jpg" par le chemin réel vers ton image de panorama. Attention: l’image doit être au format equirectangular pour qu’elle s’affiche correctement comme un panorama 360°.
+N’oubliez pas de remplacer "chemin_vers_votre_image.jpg" par le chemin réel vers votre image de panorama. 
 
 
 En résumé, ce code crée une scène de réalité virtuelle avec un ciel texturé par une image à 360 degrés. Vous pouvez interagir avec cette scène en utilisant la souris pour regarder autour de vous.
-
-
 
 <!-- <a href="https://maximer37.github.io/VR-Markdown/"> -->
 
 <img src="partie2/resources/image/panorama1.jpg" alt="premier panorama" height="auto" width="850">
 
-
-## GIMP - un couteau suisse de l'image pour préparer les panoramas
-
-GIMP est accessible gratuitement, ce qui en fait un outil économique pour les artistes et les créateurs. GIMP offre une gamme complète d'outils de retouche d'images, y compris des outils de peinture, de sélection, de correction des couleurs, de clonage, de transformation et bien d'autres encore. Cette diversité d'outils permet aux utilisateurs de réaliser une grande variété de tâches de retouche et de manipulation d'images, y compris la création de panoramas 360°.
-
-### Importation des images
-
-Importez toutes les images composant vos panoramas 360° dans GIMP au formmat JPEG et aux dimensions 2880 x 1440.
-
-### Réglages et corrections
-
-Effectuez des ajustements de couleur, de contraste et de netteté pour harmoniser les différents panoramas 360°. Vous pouvez également utiliser des outils de retouche pour éliminer les imperfections ou les éléments indésirables de certaines image.
-
-### Exportation de panoramas
-
-Une fois que votre panorama 360° est retouché, exportez-le dans le format JPEG, avec une qualité moyenne. Assurez-vous de choisir un format d'image compatible avec les plateformes ou les appareils sur lesquels vous prévoyez de partager votre panorama.
 
 
 # [Partie 2 - Navigation entre deux panorama 360](https://maximer37.github.io/VR-Markdown/guide1/partie2/index.html)
