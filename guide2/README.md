@@ -1,4 +1,10 @@
-Les *petits tutoriels de Maxime*
+|---|
+|Les *petits tutoriels de Maxime* |
+|Date: Avil 2024 |
+|Version: 1 |
+|Auteur: Maxime Renauld |
+|Validation/Direction: Matthieu Farcot |
+|Document réalisé dans le cadre d'un stage de Terminale Professionnelle Bac PRO Systèmes Numériques, option RISC |
 
 # Utilisation et configuration du casque Meta quest 2 dans un cadre scolaire 
 
