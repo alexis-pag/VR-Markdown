@@ -105,7 +105,7 @@ Maintenant, nous allons connecter le PC au casque de réalité virtuelle. Pour c
 
 après on peut faire passer le cable de l'ordinateur entre la baterie arriere et le caoutchouc 
 
-<img src="image/oculus/oculushaut.jpg" alt="oculushaut" height="auto" width="450">
+<img src="image/oculus/oculuscote.jpg" alt="oculuscote" height="auto" width="450">
 
 <img src="image/oculus/oculusbas.jpg" alt="oculusbas" height="auto" width="450">
 
