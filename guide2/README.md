@@ -39,7 +39,7 @@ Voici les logiciels installés sur l'ordinateur fixe qui sont nécessaires pour 
 
 ### Création:
 
-<img src="image/autre/creation.png" alt="Aplication VR Creation" height="auto" width="400">
+<img src="image/autre/creation.png" alt="Aplication VR Creation" height="auto" width="350">
 
 Voici les logiciels qui permettent de créer des environnements de réalité virtuelle. 
 
