@@ -45,7 +45,7 @@ Ceci explique l'importance d'une reflexion en amont, afin d'être sûr d'avoir t
 ## Matériel nécéssaire
 
 
-- Une caméra 360° (nous utiliserons une caméra Insta 360 pour cet exemple).
+- Une caméra 360° (nous utiliserons une caméra Insta 360 pour cet exemple). 
 - Un pied pour appareil photo (afin d'avoir une hauteur de prise de vue fixe entre les différents panoramas)
 - Un ordinateur, avec les logiciels suivants
   - Un environnement de développement (ici VS Codium)

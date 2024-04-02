@@ -171,3 +171,10 @@ c'est bon la classe est crée et peux etre selectionner
 Vous trouverai des information relative a l'utilisation de l'interface  et du mode enseigant sur le site suivant: [Parametre d'activités généraux](https://vr.docs.decgroupe.com/applications/apprvhabi-userguide/common/activity_settings.html)
 
 ## Mise en place du mode mise en mirroir
+
+
+### Avec le pc et le casque relier a un ordinateur
+
+premiere etape sur le bureau virtuel de l'ordinateur en haut a droite on va selectionner ***Meta Quest Developer Hub*** 
+
+<img src="image/autre/utilisation2.png" alt="Selectionner l'application Meta Quest Developer Hub" height="auto" width="500">
