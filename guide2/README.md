@@ -173,7 +173,15 @@ Vous trouverai des information relative a l'utilisation de l'interface  et du mo
 ## Mise en place du mode mise en mirroir
 
 
-### Avec le pc et le casque relier a un ordinateur
+### Mise en miroir avec le casque relier a un ordinateur
+
+***Matériel nécéssaire:***
+
+un ordinateur avec le specification requise:[specification](https://www.meta.com/fr-fr/help/quest/articles/headsets-and-accessories/oculus-link/requirements-quest-link/)
+
+Un cable usb type-C vers un usb type-A en 3.0 
+
+Un casque Meta Quest 2 
 
 premiere etape sur le bureau virtuel de l'ordinateur en haut a droite on va selectionner ***Meta Quest Developer Hub*** 
 
@@ -186,3 +194,7 @@ une fois lancer l'application lancer on peut selectionner dans le menu a gauche 
 apres selectionner ***Beta Cast*** 
 
 <img src="image/oculus/mqdh2.png" alt="Selectionner Beta Cast" height="auto" width="700">
+
+### Mise en miroir avec une connexion WI-FI 
+
+Pour configurer le mode miroir sur votre Meta Quest 2 avec un ordinateur, un Chromecast ou un téléphone, veuillez suivre la procédure détaillée sur le site officiel de Meta:[Mise en miroir](https://www.meta.com/fr-fr/help/quest/articles/in-vr-experiences/oculus-features/cast-with-quest/)
