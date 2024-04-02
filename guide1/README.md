@@ -2,22 +2,15 @@
 |------|
 |Date: **Avril 2024** |
 |Version: **1** |
-|Auteur: **Maxime Renauld** |
+|Auteur principal: **Maxime Renauld**, élève en TPRO SN RISC au lycée Louis de Cormontaigne, Metz |
+|Programmation javascipt: **Yanis Maafa**, élève en TPRO SN SSIHT au lycée Louis de Cormontaigne, Metz |
 |Validation/Direction: **Matthieu Farcot** |
-|Relecture: **Solene Mvutu Mbeya** |
+|Relecture: **Solene Mvutu Mbeya**, élève en TPRO SN RISC au lycée Louis de Cormontaigne, Metz |
 |Document réalisé dans le cadre d'un stage de Terminale Professionnelle Bac PRO Systèmes Numériques, option RISC |
 | Ressources iconographiques: **Photos et captures d'écrans (c) M. Renauld, Lycée Louis de Cormontaigne, Metz** |
 | Document sous licence **CC-BY-4.0** |
 
 # Création de visites virtuelles et contenus pédagogiques en VR libres et gratuits
-
-*Version 1*
-
-> Auteurs:
-> - **Maxime Renauld**, élève en TPRO SN RISC au lycée Louis de Cormontaigne, Metz
-> - **Solenne Mvutu Mbeya**,  élève en TPRO SN RISC au lycée Louis de Cormontaigne, Metz
-> - **Yanis Maafa**,  élève en TPRO SN SSIHT au lycée Louis de Cormontaigne, Metz
-> - **Matthieu Farcot**, encadrement et validation, lycée Louis de Cormontaigne, Metz
 
 
 ## Objectif du document:
