@@ -62,7 +62,7 @@ Voici les logiciels qui permettent de créer des environnements de réalité vir
 **insta 360° studio** : un outil de post-production conçu spécifiquement pour les vidéos et les images capturées avec les caméras Insta360.
 
 
-**Natron** : Natron est un logiciel de compositing et de traitement d'images open-source.
+**Natron** : Natron est un logiciel open-source de fusion de différentes images ou flux vidéos pour en faire un plan unique.
 
 
 ### ***AVERTISEMENT***: 
