@@ -185,4 +185,4 @@ une fois lancer l'application lancer on peut selectionner dans le menu a gauche 
 
 apres selectionner ***Beta Cast*** 
 
-<img src="image/oculus/mqdh2.png" alt="Selectionner Beta Cast>
+<img src="image/oculus/mqdh2.png" alt="Selectionner Beta Cast" height="auto" width="500">
