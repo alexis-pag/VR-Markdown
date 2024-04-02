@@ -1,3 +1,14 @@
+|Le Corlab présente Les *petits tutoriels de Maxime* |
+|------|
+|Date: **Avril 2024** |
+|Version: **1** |
+|Auteur: **Maxime Renauld** |
+|Validation/Direction: **Matthieu Farcot** |
+|Relecture: **Solene Mvutu Mbeya** |
+|Document réalisé dans le cadre d'un stage de Terminale Professionnelle Bac PRO Systèmes Numériques, option RISC |
+| Ressources iconographiques: **Photos et captures d'écrans (c) M. Renauld, Lycée Louis de Cormontaigne, Metz** |
+| Document sous licence **CC-BY-4.0** |
+
 # Création de visites virtuelles et contenus pédagogiques en VR libres et gratuits
 
 *Version 1*
