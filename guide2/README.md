@@ -39,15 +39,11 @@ Voici les logiciels installés sur l'ordinateur fixe qui sont nécessaires pour 
 
 Voici les logiciels qui permettent de créer des environnements de réalité virtuelle. 
 
-
 **Sweet home 3D** : un outil de conception d'intérieur intuitif qui permet aux utilisateurs de créer des plans d'aménagement de maison et scènes en 3D. Son objectif principal est de permettre aux utilisateurs de visualiser et de planifier l'agencement des pièces, du mobilier et des éléments décoratifs dans un environnement virtuel avant de les mettre en œuvre dans la réalité.
-
 
 **Visual Studio Code** : un éditeur de code source gratuit et open-source développé par Microsoft. Son objectif principal est de fournir un environnement de développement léger et hautement personnalisable pour les développeurs de logiciels.
 
-
 **Blender** : un logiciel de modélisation 3D, d'animation et de rendu, open-source et gratuit.
-
 
 **Open Space 3D** : un logiciel open-source conçu pour la visualisation interactive de données géospatiales en 3D.
 
