@@ -1,9 +1,11 @@
-|Le Corlab présente Les *petits tutoriels de Maxime* |
+|Le Corlab présente Les *petits tutoriels de Maxime* <img src="/image/SEAL.jpg" height="150" width="auto">| 
 |------|
 |Date: **Avril 2024** |
 |Version: **1** |
-|Auteur: **Maxime Renauld** |
+|Auteur principal: **Maxime Renauld**, élève en TPRO SN RISC au lycée Louis de Cormontaigne, Metz | 
+|Consultant speedrunning: **Yanis Maafa**, élève en TPRO SN SSIHT au lycée Louis de Cormontaigne, Metz |
 |Validation/Direction: **Matthieu Farcot** |
+|Relecture: **Solene Mvutu Mbeya**, élève en TPRO SN RISC au lycée Louis de Cormontaigne, Metz |
 |Document réalisé dans le cadre d'un stage de Terminale Professionnelle Bac PRO Systèmes Numériques, option RISC |
 | Ressources iconographiques: **Photos et captures d'écrans (c) M. Renauld, Lycée Louis de Cormontaigne, Metz** |
 | Document sous licence **CC-BY-4.0** |
