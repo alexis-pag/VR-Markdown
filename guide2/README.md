@@ -181,8 +181,8 @@ premiere etape sur le bureau virtuel de l'ordinateur en haut a droite on va sele
 
 une fois lancer l'application lancer on peut selectionner dans le menu a gauche ***Device Management***
 
-<img src="image/oculus/mqdh1.png" alt="Selectioner dans le menu: Device Management" height="auto" width="600" >
+<img src="image/oculus/mqdh1.png" alt="Selectioner dans le menu: Device Management" height="auto" width="650" >
 
 apres selectionner ***Beta Cast*** 
 
-<img src="image/oculus/mqdh2.png" alt="Selectionner Beta Cast" height="auto" width="600">
+<img src="image/oculus/mqdh2.png" alt="Selectionner Beta Cast" height="auto" width="650">
