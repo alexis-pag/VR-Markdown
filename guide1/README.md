@@ -401,7 +401,7 @@ Sur la gauche, nous sélectionnons le texte, puis nous choisissons le menu "Text
 # [Partie 4 - Implémentation d'une vidéo](https://maximer37.github.io/VR-Markdown/guide1/partie4/index.html)
 
 
-Pour débuter la lecture d'un fichier vidéo ou audio, une interaction est nécessaire pour les démarrer. Ceci est dû à des préoccupations concernant l'économie de bande passante. Dans notre situation, nous allons concevoir une nouvelle page HTML comportant un panneau avec l'inscription "click me" dessus. Ce panneau nous permettra d'interagir avec le site, déclenchant ainsi la lecture de la vidéo. Nous utiliserons une seule ligne de code HTML pour créer ce panneau.
+Pour débuter la lecture d'un fichier vidéo ou audio, une interaction est nécessaire pour les démarrer : ceux-ci sont bloqués par défaut. Ceci est dû à des préoccupations concernant notemment l'économie de bande passante. Dans notre situation, nous allons concevoir une nouvelle page HTML comportant un panneau avec l'inscription "click me" dessus. Ce panneau nous permettra d'interagir avec le site, déclenchant ainsi la lecture automatique de la vidéo. Nous utiliserons une seule ligne de code HTML pour créer ce panneau.
 
 <img src="partie4/resources/image/imagegenerique/clickme.png" alt="Click me" height="auto" width="450">
 
