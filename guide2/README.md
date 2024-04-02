@@ -28,7 +28,9 @@ Voici les logiciels installés sur l'ordinateur fixe qui sont nécessaires pour 
 
 **Oculus**: une application qui va permettre d'activer le mode ***Quest Link*** pour utiliser le casque en mode ***PCVR***, offrant ainsi aux utilisateurs la possibilité de connecter leur casque Oculus Quest à un PC via un câble USB 3.0 et de profiter d'une expérience de réalité virtuelle haute performance avec une gamme étendue de jeux et d'applications disponibles sur PC.
 
+
 **SideQuest** : une application qui permet de manipuler les données du casque Oculus Quest, offrant aux utilisateurs la possibilité de télécharger, de gérer et de partager du contenu non officiel, ainsi que d'accéder à un store alternatif comprenant une large sélection de jeux, d'applications et de fonctionnalités supplémentaires pour leur casque de réalité virtuelle.
+
 
 **Firefox** : un navigateur web sécurisé, rapide et personnalisable aux utilisateurs.
 
@@ -39,19 +41,27 @@ Voici les logiciels installés sur l'ordinateur fixe qui sont nécessaires pour 
 
 Voici les logiciels qui permettent de créer des environnements de réalité virtuelle. 
 
+
 **Sweet home 3D** : un outil de conception d'intérieur intuitif qui permet aux utilisateurs de créer des plans d'aménagement de maison et scènes en 3D. Son objectif principal est de permettre aux utilisateurs de visualiser et de planifier l'agencement des pièces, du mobilier et des éléments décoratifs dans un environnement virtuel avant de les mettre en œuvre dans la réalité.
+
 
 **Visual Studio Code** : un éditeur de code source gratuit et open-source développé par Microsoft. Son objectif principal est de fournir un environnement de développement léger et hautement personnalisable pour les développeurs de logiciels.
 
+
 **Blender** : un logiciel de modélisation 3D, d'animation et de rendu, open-source et gratuit.
+
 
 **Open Space 3D** : un logiciel open-source conçu pour la visualisation interactive de données géospatiales en 3D.
 
+
 **Unity** : un moteur de développement de contenu interactif utilisé par les développeurs pour créer des expériences immersives en 2D et 3D. Son objectif principal est de fournir un environnement de développement puissant et convivial, avec des outils pour la création de graphismes, la programmation, la physique, l'audio et bien plus encore. Unity est largement utilisé dans l'industrie du jeu, mais aussi dans d'autres domaines tels que la simulation, la formation, la visualisation architecturale et la réalité virtuelle.
+
 
 **insta 360° studio** : un outil de post-production conçu spécifiquement pour les vidéos et les images capturées avec les caméras Insta360.
 
+
 **Natron** : Natron est un logiciel de compositing et de traitement d'images open-source.
+
 
 ### ***AVERTISEMENT***: 
 
