@@ -175,37 +175,21 @@ En résumé, ce code crée une scène de réalité virtuelle avec un ciel textur
 <img src="partie2/resources/image/panorama1.jpg" alt="premier panorama" height="auto" width="850">
 
 
-## GIMP, ou GNU Image Manipulation Program, logiciel de retouche d'images utilisé pour la création de panoramas 360° :
+## GIMP :
 
-### Gratuit et Open Source :
-
-GIMP est accessible gratuitement, ce qui en fait un outil économique pour les artistes et les créateurs.
-
-### Large gamme de fonctionnalités : 
-
-GIMP offre une gamme complète d'outils de retouche d'images, y compris des outils de peinture, de sélection, de correction des couleurs, de clonage, de transformation et bien d'autres encore. Cette diversité d'outils permet aux utilisateurs de réaliser une grande variété de tâches de retouche et de manipulation d'images, y compris la création de panoramas 360°.
-
-### Prise en charge des images à haute résolution : 
-
-Les panoramas 360° sont souvent composés de plusieurs images haute résolution. GIMP est capable de manipuler et de traiter ces images sans perte de qualité.
-
-### Flexibilité dans le traitement des images :
-
-Avec GIMP, les utilisateurs ont un contrôle total sur chaque aspect de leurs images. Ils peuvent ajuster la luminosité, le contraste, la saturation, la netteté, et bien d'autres paramètres pour obtenir l'effet désiré dans leur panorama 360°.
-
-## Les étapes recommandées pour modifier les panoramas en amont de leur publublication :
+GIMP est accessible gratuitement, ce qui en fait un outil économique pour les artistes et les créateurs. GIMP offre une gamme complète d'outils de retouche d'images, y compris des outils de peinture, de sélection, de correction des couleurs, de clonage, de transformation et bien d'autres encore. Cette diversité d'outils permet aux utilisateurs de réaliser une grande variété de tâches de retouche et de manipulation d'images, y compris la création de panoramas 360°.
 
 ### Préparation des images :
 
-Importez toutes les images individuelles composant votre panorama 360° dans GIMP au formmat JPEG et aux dimensions 2880 x 1440.
+Importez toutes les images composant vos panoramas 360° dans GIMP au formmat JPEG et aux dimensions 2880 x 1440.
 
 ### Réglages et corrections :
 
-Effectuez des ajustements de couleur, de contraste et de netteté pour harmoniser les différentes parties de votre panorama 360°. Vous pouvez également utiliser des outils de retouche pour éliminer les imperfections ou les éléments indésirables de l'image.
+Effectuez des ajustements de couleur, de contraste et de netteté pour harmoniser les différents panoramas 360°. Vous pouvez également utiliser des outils de retouche pour éliminer les imperfections ou les éléments indésirables de certaines image.
 
 ### Exportation du panorama :
 
-Une fois que votre panorama 360° est assemblé et retouché, exportez-le dans le format souhaité pour une utilisation ultérieure. Assurez-vous de choisir un format d'image compatible avec les plateformes ou les appareils sur lesquels vous prévoyez de partager votre panorama.
+Une fois que votre panorama 360° est retouché, exportez-le dans le format JPEG, avec une qualité moyenne. Assurez-vous de choisir un format d'image compatible avec les plateformes ou les appareils sur lesquels vous prévoyez de partager votre panorama.
 
 
 # [Partie 2 - Navigation entre deux panorama 360](https://maximer37.github.io/VR-Markdown/guide1/partie2/index.html)
