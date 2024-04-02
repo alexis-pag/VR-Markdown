@@ -178,3 +178,7 @@ Vous trouverai des information relative a l'utilisation de l'interface  et du mo
 premiere etape sur le bureau virtuel de l'ordinateur en haut a droite on va selectionner ***Meta Quest Developer Hub*** 
 
 <img src="image/autre/utilisation2.png" alt="Selectionner l'application Meta Quest Developer Hub" height="auto" width="500">
+
+une fois lancer l'application lancer on peut selectionner dans le menu a gauche ***Device Management***
+
+<img src="image/oculus/mqdh1.png" alt="Selectioner dans le menu: Device Management" height="auto" width="500" >
