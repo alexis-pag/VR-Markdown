@@ -1,4 +1,4 @@
-|Le Corlab présente Les *petits tutoriels de Maxime* | <img src="partie2/resources/image/SEAL.jpg" height="150" width="150">
+|Le Corlab présente Les *petits tutoriels de Maxime* | <img src="/image/SEAL.jpg" height="150" width="150">
 |------|------|
 |Date: **Avril 2024** |
 |Version: **1** |
