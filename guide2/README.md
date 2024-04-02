@@ -5,7 +5,7 @@
 |Auteur: **Maxime Renauld** |
 |Validation/Direction: **Matthieu Farcot** |
 |Document réalisé dans le cadre d'un stage de Terminale Professionnelle Bac PRO Systèmes Numériques, option RISC |
-| Ressources iconographiques: **Photos et captures d'écrans (c) M. Renauld** |
+| Ressources iconographiques: **Photos et captures d'écrans (c) M. Renauld, Lycée Louis de Cormontaigne, Metz** |
 | Document sous licence **CC-BY-4.0** |
 
 # Utilisation et configuration du casque Meta quest 2 dans un cadre scolaire 
