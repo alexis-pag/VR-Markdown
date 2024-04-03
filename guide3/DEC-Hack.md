@@ -7,10 +7,13 @@ l'aplication reshade installer sur l'ordinateur on va pouvoir le configurer. dan
 <img src="/guide3/image/reshade1.png" alt="Selectionner Browse" height="auto" width="350">
 
 
-ensuite on va selectionner le Direct X 10/11/12, puis next
+ensuite on va selectionner le ***Direct X 10/11/12*** , puis ***next***
 
 <img src="/guide3/image/reshade2.png" alt="Selectionner direct x 10" height="auto" width="350">
 
+enfin en selectionne tout les mod puis ***next***
+
+<img src="/guide3/image/reshade3.png" alt="Selectionner tous les mod" height="auto" width="350">
 
 ### bug et remarque 
 
