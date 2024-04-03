@@ -1,0 +1,1 @@
+Insatllation et configuration de reshade pour DEC
