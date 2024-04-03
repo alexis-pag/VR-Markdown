@@ -1,4 +1,4 @@
-# Communocation de la plateforme web
+# Communication de la plateforme web
 
 https://lookyloo.circl.lu/tree/4681f5b3-2b2e-4c5d-ad9c-d7e5de1c1448
 
