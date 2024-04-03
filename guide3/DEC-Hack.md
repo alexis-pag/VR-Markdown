@@ -21,11 +21,11 @@ on laisse finir
 
 une fois installer on peut lancer l'application DEC un bandeau va s'afficher en haut de l'ecran 
 
-<img src="/guide3/image/decavant.png" alt="lancement DEC" height="auto" width="750">
+<img src="/guide3/image/menuhome.png" alt="lancement DEC" height="auto" width="750">
 
 maintenant on va utiliser la touche `Home` un menu a gauche va apparaite 
 
-<img src="/guide3/image/menuhome" alt="menu reshade" height="auto" width="750">
+<img src="/guide3/image/interface.png" alt="menu reshade" height="auto" width="750">
 
 ### bug et remarque 
 
