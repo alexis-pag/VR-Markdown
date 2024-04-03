@@ -1,6 +1,6 @@
 |*Les petits tutoriels du CorLab* <img src="/image/SEAL.jpg" height="150" width="auto">| 
 |------|
-|Bonnes pratiques pour usage d'un casque VR|
+|**Bonnes pratiques pour usage d'un casque VR**|
 |Date: **Avril 2024** |
 |Version: **1** |
 |Auteur principal: **Maxime Renauld**, élève en TPRO SN RISC au lycée Louis de Cormontaigne, Metz | 
