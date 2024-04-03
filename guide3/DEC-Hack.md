@@ -2,9 +2,15 @@
 
 ### installation de reshade
 
-l'aplication reshade installer sur l'ordinateur on va pouvoir le configurer. dans un premier temps on va selectionner l'application.
+l'aplication reshade installer sur l'ordinateur on va pouvoir le configurer. dans un premier temps on va selectionner  l'application, 
 
 <img src="/guide3/image/reshade1.png" alt="Selectionner Browse" height="auto" width="350">
+
+
+ensuite on va selectionner le Direct X 10/11/12, puis next
+
+<img src="/guide3/image/reshade2.png" alt="Selectionner direct x 10" height="auto" width="350">
+
 
 ### bug et remarque 
 
