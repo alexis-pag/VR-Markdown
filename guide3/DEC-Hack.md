@@ -1,6 +1,6 @@
 # Communication de la plateforme web
 
-### installation de reshade
+### installation et configuration de reshade 
 
 l'aplication reshade installer sur l'ordinateur on va pouvoir le configurer. dans un premier temps on va selectionner  l'application, 
 
@@ -19,6 +19,13 @@ on laisse finir
 
 <img src="/guide3/image/reshade4.png" alt="chargement" height="auto" width="350">
 
+une fois installer on peut lancer l'application DEC un bandeau va s'afficher en haut de l'ecran 
+
+<img src="/guide3/image/decavant.png" alt="lancement DEC" height="auto" width="550">
+
+maintenant on va utiliser la touche `Home` un menu a gauche va apparaite 
+
+<img src="/guide3/image/interface.png" alt="menu reshade" height="auto" width="550">
 
 ### bug et remarque 
 
