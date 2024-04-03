@@ -15,6 +15,11 @@ enfin en selectionne tout les mod puis ***next***
 
 <img src="/guide3/image/reshade3.png" alt="Selectionner tous les mod" height="auto" width="350">
 
+on laisse finir 
+
+<img src="/guide3/image/reshade4.png" alt="chargement" height="auto" width="350">
+
+
 ### bug et remarque 
 
 les graphisme laisse a desiré en effet il n'y a pas d'exploitation au niveau des ombre mais aussi au technologie existante comme le "RTX et le DLSS" qui pourrai améliorer les graphisme.
