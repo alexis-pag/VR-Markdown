@@ -1,5 +1,6 @@
-|Le Corlab présente Les *petits tutoriels de Maxime* <img src="/image/SEAL.jpg" height="150" width="auto">| 
+|*Les petits tutoriels du CorLab* <img src="/image/SEAL.jpg" height="150" width="auto">| 
 |------|
+| Ballades virtuelles avec contenu dynamique|
 |Date: **Avril 2024** |
 |Version: **1** |
 |Auteur principal: **Maxime Renauld**, élève en TPRO SN RISC au lycée Louis de Cormontaigne, Metz | 
