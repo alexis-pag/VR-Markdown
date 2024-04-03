@@ -2,7 +2,7 @@
 
 ## Installation et configuration de reshade pour DEC
 
-## Tracage de la communocation de la plate forme
+## Tracage de la communication de la plate forme
 
 ```
 @echo off
