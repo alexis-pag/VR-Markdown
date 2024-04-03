@@ -4,7 +4,7 @@
 
 l'aplication reshade installer sur l'ordinateur on va pouvoir le configurer. dans un premier temps on va selectionner l'application.
 
-<img src="image/reshade1" alt="Selectionner Browse" height="auto" width="550">
+<img src="/guide3/image/reshade1.png" alt="Selectionner Browse" height="auto" width="550">
 
 ### bug et remarque 
 
