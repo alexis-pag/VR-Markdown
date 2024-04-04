@@ -29,9 +29,9 @@ maintenant on va utiliser la touche `Home` un menu a gauche va apparaite
 
 en utiilisant les mod disposible on est passer de ceci : 
 
-<img src="/guide3/image/decavant2.png" alt="Dec Avant" height="auto" width="350">
+<img src="/guide3/image/decavant2.png" alt="Dec Avant" height="auto" width="650">
 
-<img src="/guide3/image/decapres2.png" alt="Dec Après" height="auto" width="350">
+<img src="/guide3/image/decapres2.png" alt="Dec Après" height="auto" width="650">
 
 ### bug et remarque 
 
