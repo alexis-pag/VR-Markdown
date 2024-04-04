@@ -85,9 +85,11 @@ Une fois que votre panorama 360° est retouché, exportez-le dans le format JPEG
 
 Pour commencer à utiliser GitHub, vous devez créer un compte personnel gratuit sur GitHub.com.
 
-
+<img src="partie1/resources/image/github1.png" alt="sign up" height="auto" width="850">
 
 Suivez les indications pour créer votre compte personnel Assurez-vous d’utiliser un mot de passe fort et unique.
+
+<img src="partie1/resources/image/github2.png" alt="compte" height="auto" width="850">
 
 Vérifiez votre adresse e-mail lors de l’inscription. Sans adresse e-mail vérifiée, certaines tâches de base sur GitHub, comme la création d’un référentiel, ne seront pas possibles.
 
@@ -97,9 +99,11 @@ Vérifiez votre adresse e-mail lors de l’inscription. Sans adresse e-mail vér
 
 Vous pouvez créer un nouveau dépôt ou utiliser un dépôt existant pour votre site.
 
-<img src="partie1/resources/image/github1.png" alt="sign up" height="auto" width="850">
+
 
 on va crée un ***repositories***
+
+<img src="partie1/resources/image/github3.png" alt="Repositories" height="auto" width="850">
 
 Choisissez un nom pour votre référentiel (par exemple, <votre-nom-d'utilisateur>.github.io).
 
