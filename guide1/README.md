@@ -99,14 +99,12 @@ Vérifiez votre adresse e-mail lors de l’inscription. Sans adresse e-mail vér
 
 Vous pouvez créer un nouveau dépôt ou utiliser un dépôt existant pour votre site.
 
-
-
 on va crée un ***repositories***
 
 <img src="partie1/resources/image/github3.png" alt="Repositories" height="auto" width="850">
 
-Choisissez un nom pour votre référentiel (par exemple, <votre-nom-d'utilisateur>.github.io).
-
+Choisissez un nom pour votre référentiel.
+<img src="partie1/resources/image/github4.png" alt="Repositories2" height="auto" width="850">
 
 Sélectionnez “Public” comme visibilité du dépôt.
 Cochez l’option “Initialize this repository with a README” (Initialiser ce dépôt à l’aide d’un fichier LISEZMOI).
@@ -120,6 +118,15 @@ Cliquez sur “Créer le dépôt”.
 
 Accédez au dépôt de votre site sur GitHub.
 
+pour cela allez dans ***settings***
+<img src="partie1/resources/image/github5.png" alt="Settings" height="auto" width="850">
+
+puis dans la rubrique ***page*** 
+
+<img src="partie1/resources/image/github6.png" alt="Page" height="auto" width="850">
+
+enfin selectionner ***select branch*** puis ***Main***
+<img src="partie1/resources/image/github7.png" alt="Selection site" height="auto" width="850">
 
 Configurez une source de publication pour votre site. Vous pouvez choisir entre différentes options, comme une branche dédiée ou un workflow GitHub Actions personnalisé.
 
