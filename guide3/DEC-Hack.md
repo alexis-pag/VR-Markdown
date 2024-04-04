@@ -45,7 +45,7 @@ il y a beaucoups de bug present sur l'application comme lors que  l'on utilise l
 
 Pourquoi ne pas permettre l'utilisation de Steam VR même pour les casques Oculus ?
 
-Cela signifie que je souhaite utiliser Steam VR dans l'application DEC afin de profiter de certaines fonctionnalités disponibles sur Steam VR. Il serait donc intéressant de proposer aux utilisateurs le choix entre Steam VR et Oculus, comme c'est déjà le cas sur des plateformes telles que Steam, qui offrent différents types de lancements.!
+Cela signifie que je souhaite utiliser Steam VR dans l'application DEC afin de profiter de certaines fonctionnalités disponibles sur Steam VR. Il serait donc intéressant de proposer aux utilisateurs le choix entre Steam VR et Oculus, comme c'est déjà le cas sur des plateformes telles que Steam, qui offrent différents types de lancements.
 
 utilisation de fichier audio qui provien de steam VR "activation.wav"? 
 
