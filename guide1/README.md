@@ -124,12 +124,23 @@ Accédez au dépôt de votre site sur GitHub.
 pour cela allez dans ***settings***
 <img src="partie1/resources/image/github5.png" alt="Settings" height="auto" width="850">
 
+
+
 puis dans la rubrique ***page*** 
+
+
 
 <img src="partie1/resources/image/github6.png" alt="Page" height="auto" width="550">
 
+
+
 enfin selectionner ***select branch*** puis ***Main***
+
+
 <img src="partie1/resources/image/github7.png" alt="Selection site" height="auto" width="550">
+
+
+
 
 Configurez une source de publication pour votre site. Vous pouvez choisir entre différentes options, comme une branche dédiée ou un workflow GitHub Actions personnalisé.
 
