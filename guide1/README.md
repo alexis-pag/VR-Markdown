@@ -103,7 +103,10 @@ on va crée un ***repositories***
 
 <img src="partie1/resources/image/github3.png" alt="Repositories" height="auto" width="850">
 
+
+
 Choisissez un nom pour votre référentiel.
+
 <img src="partie1/resources/image/github4.png" alt="Repositories2" height="auto" width="550">
 
 Sélectionnez “Public” comme visibilité du dépôt.
