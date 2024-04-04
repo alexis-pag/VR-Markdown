@@ -8,3 +8,5 @@ Bienvenue sur notre page dédiée aux tutoriels techniques, créée par un lycé
 
 
 # [L'utilisation et configuration du casque Meta quest 2 dans un cadre scolaire](https://github.com/MaximeR37/VR-Markdown/blob/main/guide2/README.md) 
+
+# [DEC Hack](https://github.com/MaximeR37/VR-Markdown/blob/main/guide3/DEC-Hack.md)
