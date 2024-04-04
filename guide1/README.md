@@ -110,7 +110,7 @@ Sélectionnez “Public” comme visibilité du dépôt.
 Cochez l’option “Initialize this repository with a README” (Initialiser ce dépôt à l’aide d’un fichier LISEZMOI).
 
 
-Cliquez sur “Créer le dépôt”.
+Cliquez sur “Créer le dépôt”  en bas de la page.
 
 
 ### Création de votre site
