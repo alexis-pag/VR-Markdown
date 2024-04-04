@@ -25,8 +25,9 @@ une fois installer on peut lancer l'application DEC un bandeau va s'afficher en 
 
 maintenant on va utiliser la touche `Home` un menu a gauche va apparaite 
 
-<img src="/guide3/image/interface.png" alt="menu reshade" height="auto" width="750">
+<img src="/guide3/image/interface1.png" alt="menu reshade" height="auto" width="750">
 
+    
 ### bug et remarque 
 
 les graphisme laisse a desiré en effet il n'y a pas d'exploitation au niveau des ombre mais aussi au technologie existante comme le "RTX et le DLSS" qui pourrai améliorer les graphisme.
