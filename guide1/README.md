@@ -89,7 +89,7 @@ Pour commencer à utiliser GitHub, vous devez créer un compte personnel gratuit
 
 Suivez les indications pour créer votre compte personnel Assurez-vous d’utiliser un mot de passe fort et unique.
 
-<img src="partie1/resources/image/github2.png" alt="compte" height="auto" width="850">
+<img src="partie1/resources/image/github2.png" alt="compte" height="auto" width="350">
 
 Vérifiez votre adresse e-mail lors de l’inscription. Sans adresse e-mail vérifiée, certaines tâches de base sur GitHub, comme la création d’un référentiel, ne seront pas possibles.
 
@@ -104,7 +104,7 @@ on va crée un ***repositories***
 <img src="partie1/resources/image/github3.png" alt="Repositories" height="auto" width="850">
 
 Choisissez un nom pour votre référentiel.
-<img src="partie1/resources/image/github4.png" alt="Repositories2" height="auto" width="850">
+<img src="partie1/resources/image/github4.png" alt="Repositories2" height="auto" width="550">
 
 Sélectionnez “Public” comme visibilité du dépôt.
 Cochez l’option “Initialize this repository with a README” (Initialiser ce dépôt à l’aide d’un fichier LISEZMOI).
@@ -123,10 +123,10 @@ pour cela allez dans ***settings***
 
 puis dans la rubrique ***page*** 
 
-<img src="partie1/resources/image/github6.png" alt="Page" height="auto" width="850">
+<img src="partie1/resources/image/github6.png" alt="Page" height="auto" width="550">
 
 enfin selectionner ***select branch*** puis ***Main***
-<img src="partie1/resources/image/github7.png" alt="Selection site" height="auto" width="850">
+<img src="partie1/resources/image/github7.png" alt="Selection site" height="auto" width="550">
 
 Configurez une source de publication pour votre site. Vous pouvez choisir entre différentes options, comme une branche dédiée ou un workflow GitHub Actions personnalisé.
 
