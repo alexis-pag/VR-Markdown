@@ -27,8 +27,14 @@ maintenant on va utiliser la touche `Home` un menu a gauche va apparaite
 
 <img src="/guide3/image/interface1.png" alt="menu reshade" height="auto" width="350">
 
-    
+en utiilisant les mod disposible on est passer de ceci : 
+
+<img src="/guide3/image/decavant2.png" alt="Dec Avant" height="auto" width="350">
+
+<img src="/guide3/image/decapres2.png" alt="Dec Après" height="auto" width="350">
+
 ### bug et remarque 
+
 
 les graphisme laisse a desiré en effet il n'y a pas d'exploitation au niveau des ombre mais aussi au technologie existante comme 
 le "RTX et le DLSS" qui pourrai améliorer les graphisme.
@@ -37,7 +43,10 @@ le "RTX et le DLSS" qui pourrai améliorer les graphisme.
 il y a beaucoups de bug present sur l'application comme lors que  l'on utilise le mode "classique" et que lance une activité en utilisant l'application il est possible de bloquer notre personnage et donc se retrouver soft lock et donc redemarre l'application 
 
 
-Pourquoi ne pas laisser la possibilité d'utiliser Steam VR meme pour les casque oculus ?
+Pourquoi ne pas permettre l'utilisation de Steam VR même pour les casques Oculus ?
 
+Cela signifie que je souhaite utiliser Steam VR dans l'application DEC afin de profiter de certaines fonctionnalités disponibles sur Steam VR. Il serait donc intéressant de proposer aux utilisateurs le choix entre Steam VR et Oculus, comme c'est déjà le cas sur des plateformes telles que Steam, qui offrent différents types de lancements.!
 
-utilisation de fichier audio qui provien de steam VR "activation.wav"?  
+utilisation de fichier audio qui provien de steam VR "activation.wav"? 
+
+en effet le fichier se situe \SteamVR\resources\webinterface\dashboard\sounds dans ce dossier le fichier ce nomme activation.wav
