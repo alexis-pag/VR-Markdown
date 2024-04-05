@@ -27,11 +27,39 @@ maintenant on va utiliser la touche `Home` un menu a gauche va apparaite
 
 <img src="/guide3/image/interface1.png" alt="menu reshade" height="auto" width="350">
 
+on va configurer des mod pour modifier le rendu graphique: 
+
+
+en premier on va activer ***Clarity.fx*** et le configurer ainsi:
+<img src="/guide3/image/clarityfx.png" alt="clarityfx.png" height="auto" width="750">
+
+puis ***Fakehdr*** qui l'on doit configurer :
+<img src="/guide3/image/fakehdr.png" alt="fakehdr" height="auto" width="750">
+
+ensuite le mod ***FXAA*** avec les coonfiguration suivante:
+<img src="/guide3/image/fxaa.png"  alt="FXAA" height="auto" width="750">
+
+puis le mod ***qUINT_bloom*** qui se configure de la maniere suivante: 
+<img src="/guide3/image/quintbloom.png" alt="qUINT_bloom" height="auto" width="750">
+
+pour le cinquieme mod ***qUINT_mxao*** on va le configurer ainsi:
+<img src="/guide3/image/quintmxaofx.png" alt="qUINT_MXAO" height="auto" width="750">
+
+ensuite le mod ***qUINT_sharp*** avec la configuration suivante:
+<img src="/guide3/image/quintsharpfx.png" alt="qUINT_SHARP" height="auto" width="750">
+
+puis le  mod ***qUINT_ssr*** en suivant cette configuration suivante: 
+<img src="/guide3/image/quintssrfx.png" alt="qUINT_SSR" height="auto" width="750">
+
+enfin pour le derner mod ***SMAA*** on va utiliser cette coonfiguration: 
+<img src="/guide3/image/smaa.png" alt="SMAA" height="auto" width="750">
+
 en utiilisant les mod disposible on est passer de ceci : 
 
 <img src="/guide3/image/decavant2.png" alt="Dec Avant" height="auto" width="650">
 
 <img src="/guide3/image/decapres2.png" alt="Dec Après" height="auto" width="650">
+
 
 ### bug et remarque 
 
