@@ -75,6 +75,6 @@ Pourquoi ne pas permettre l'utilisation de Steam VR même pour les casques Oculu
 
 Cela signifie que je souhaite utiliser Steam VR dans l'application DEC afin de profiter de certaines fonctionnalités disponibles sur Steam VR. Il serait donc intéressant de proposer aux utilisateurs le choix entre Steam VR et Oculus, comme c'est déjà le cas sur des plateformes telles que Steam, qui offrent différents types de lancements.
 
-utilisation de fichier audio qui provien de steam VR "activation.wav"? 
+utilisation de fichier audio qui provien de Steam VR "activation.wav"? 
 
-en effet le fichier se situe \SteamVR\resources\webinterface\dashboard\sounds dans ce dossier le fichier ce nomme activation.wav
+en effet le fichier se situe \SteamVR\resources\webinterface\dashboard\sounds dans ce dossier le fichier ce nomme activation.wav est ce fichier est utiliser dans Steam VR lors que l'on lance une application.
