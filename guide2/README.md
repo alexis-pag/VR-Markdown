@@ -104,7 +104,7 @@ Maintenant, nous allons connecter le PC au casque de réalité virtuelle. Pour c
 
 <img src="image/oculus/cableoculus.png" alt="Cable Meta" height="auto" width="650">
 
-*Conseil* : Il est très utile de protéger la connexion filaire en faisant passer le cable USB entre la batterie arriere du casque et le caoutchouc. Ceci permet de limiter les risques d'arrachement si quelqu'un mqrche sur le cable. 
+*Conseil* : Il est très utile de protéger la connexion filaire en faisant passer le cable USB entre la batterie arriere du casque et le caoutchouc. Ceci permet de limiter les risques d'arrachement si quelqu'un marche sur le cable. 
 
 <img src="image/oculus/oculuscote.jpg" alt="oculuscote" height="auto" width="450">
 
