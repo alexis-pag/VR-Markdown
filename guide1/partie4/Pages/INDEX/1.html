@@ -3,13 +3,18 @@
 
 <!-- Modèle 3D de déplacement, utilise le composant "scene-changer" pour passer à un autre panorama -->
 <a-entity id="fleche" scene-changer="home" obj-model="obj: ./resources/fleche.obj" position="-28.26659 0.24929 -16.91649" class="raycastable" rotation="-90 0 0" 
-animation="property: position; dir: alternate; to: -28.2 -.4 -16.9; loop: true; dur: 1000" material="color: #00ff11"></a-entity>
+    animation="property: position; dir: alternate; to: -28.2 -.4 -16.9; loop: true; dur: 1000" material="color: #00ff11">
+</a-entity>
 
 <a-entity id="disque" obj-model="obj: ./resources/disque.obj" position="-28.2 -.4 -16.9" material="color:#00ff11">
 </a-entity>
 
 <!-- implémentaion d'une frise sur le panorama pour faciliter le positionnement du texte -->
-<a-ring id="navigation" position="0 -1.5 0" wireframe="true" opacity="0.25" color="#FF0000" radius-inner="1" radius-outer="2" rotation="-90 0 0"> </a-ring>
+<a-ring id="navigation" position="0 -1.5 0" wireframe="true" opacity="0.25" color="#FF0000" radius-inner="1" radius-outer="2" 
+    rotation="-90 0 0">
+</a-ring>
 
 <!-- composant pour implementer une video -->
-<a-video id="video" autoplayloop="true" src="./resources/video/Pirate.mp4" position="-11.98573 16.27849 9.43671" rotation="-1.2564964447218954 141.74632076859487 -0.038388172273765155" scale="15 15 15" material="" geometry=""></a-video>
+<a-video id="video" autoplayloop="true" src="./resources/video/Pirate.mp4" position="-11.98573 16.27849 9.43671" ^
+    rotation="-1.2564964447218954 141.74632076859487 -0.038388172273765155" scale="15 15 15" material="" geometry="">
+</a-video>
