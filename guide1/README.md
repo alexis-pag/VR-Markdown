@@ -339,7 +339,7 @@ Pour accomplir cela, nous allons utiliser un composant appelé "animation" auque
 Nous allons également insérer du texte pour mieux orienter l'utilisateur dans son parcours. Pour ce faire, nous ajoutons un composant de texte qui sera associé à une frise positionnée au niveau du sol, afin que le texte soit toujours orienté vers l'utilisateur. Cette fonctionnalité repose sur un morceau de code en JavaScript.
 
 
-````
+````html
 <!-- implémentaion d'une frise sur le panorama pour faciliter le positionnement du texte -->
 <a-ring id="navigation" position="0 -1.5 0" wireframe="true" opacity="0.25" color="red" radius-inner="1" radius-outer="2" 
     rotation="-90 0 0">
