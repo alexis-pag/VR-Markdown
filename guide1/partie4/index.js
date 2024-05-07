@@ -1,4 +1,4 @@
-// Code emprunter a Error-Cezar: https://github.com/Error-Cezar
+// Code emprunte a Error-Cezar: https://github.com/Error-Cezar
 
 // Variable qui contient la localisation des pages
 var PageLoc = "./Pages"
@@ -8,7 +8,7 @@ var SceneData = $("a-scene")
 var scene     = SceneData[0]
 var MainScene = $("#MainScene")[0]
 
-// Contiens le nom du document dans une variable
+// Contient le nom du document dans une variable
 let PathName = location.pathname.split("/")
 PathName = (PathName[PathName.length - 1].split(".")[0] || "index").toUpperCase()
 
